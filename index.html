@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>PEV Trip Explorer</title>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+		<link href='https://fonts.googleapis.com/css?family=Open+Sans:300, 300italic,400,600,800,800italic,600italic' rel='stylesheet' type='text/css'>
+		<link href="lib/leaflet.css" rel="stylesheet" type="text/css" />
+		<link href="jquery-ui.css" rel="stylesheet" type="text/css" />
+		<link href="hubway.css" rel="stylesheet" type="text/css" />
+		<link rel="stylesheet" href="https://npmcdn.com/leaflet@0.7.7/dist/leaflet.css" />
+
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+		<script type="text/javascript" src="lib/jquery-ui.min.js"></script>
+		<script src="https://npmcdn.com/leaflet@0.7.7/dist/leaflet.js"></script>
+		<script type="text/javascript" src="lib/arc.js"></script>
+		<script type="text/javascript" src="trips.js"></script>
+	<head>
+	<body>
+		<div id="left">
+			<div class="filter" id="time">
+				<p class="filter-title">Time</p>
+				<p style="display: none;" class="text-filter selected">Starting between</p>
+				<!-- <p class="text-filter">Ending between</p> -->
+				<div><div class="plus">+</div><p id="start-hour" class="time-step hour">12</p><div class="minus">-</div></div>
+				<div style="display: none;"><div class="plus">+</div><p id="start-minute" class="time-step minute">00</p><div class="minus">-</div></div>
+				<div><div class="plus">+</div><p id="start-am" class="time-step am">AM</p><div class="minus">-</div></div>
+				<div><p style="display: inline-block; margin: auto 4px;"> and </p></div>
+				<div><div class="plus">+</div><p id="end-hour" class="time-step hour">12</p><div class="minus">-</div></div>
+				<div style="display: none;"><div class="plus">+</div><p id="end-minute" class="time-step minute">00</p><div class="minus">-</div></div>
+				<div><div class="plus">+</div><p id="end-am" class="time-step am">AM</p><div class="minus">-</div></div>
+			</div>
+			<div class="filter" id="date">
+				<p class="filter-title">Month</p>
+				<div id="months">
+					<p>J</p>
+					<p>F</p>
+					<p>M</p>
+					<p>A</p>
+					<p>M</p>
+					<p>J</p>
+					<hr />
+					<p>J</p>
+					<p>A</p>
+					<p>S</p>
+					<p>O</p>
+					<p>N</p>
+					<p>D</p>
+				</div>
+			</div>
+			<div class="filter">
+				<p class="filter-title">Weekday</p>
+				<div id="days">
+					<p>S</p>
+					<p>M</p>
+					<p>T</p>
+					<p>W</p>
+					<p>T</p>
+					<p>F</p>
+					<p>S</p>
+				</div>
+			</div>
+			<div style="display: none;" class="filter" id="daylight">
+				<p class="filter-title ">Day or night</p>
+				<p class="text-filter">Daylight (sunrise to sunset)</p>
+				<p class="text-filter">Non-daylight (sunset to sunrise)</p>
+				<p class="text-filter selected">Either day or night</p>
+			</div>
+			<!-- <div class="filter" id="zip-code">
+				<p class="filter-title">Home of rider</p>
+				<p class="text-filter">Central city: Hubway service area</p>
+				<p class="text-filter">Inside Route 128</p>
+				<p class="text-filter">South and west (S. Station commuter lines)</p>
+				<p class="text-filter">North (N. Station commuter lines)</p>
+				<p class="text-filter selected">Any location</p>
+			</div> -->
+			<div class="filter" id="duration">
+				<p class="filter-title">Trip Duration</p>
+				<div class="filter-slider" id="duration-slider"></div>
+				<p class="slider-title">0 to 6 hrs</p>
+				<div style="display: none;">
+					<input type="checkbox" id="duration-check" checked/><label for="duration-check" class="selected">Include rides longer than 6 hours</label>
+				</div>
+			</div>
+			<div class="filter" id="temp">
+				<p class="filter-title">Temperature</p>
+				<div class="filter-slider" id="temp-slider"></div>
+				<p class="slider-title">0&deg;C to 30&deg;C</p>
+			</div>
+			<div class="filter" id="age">
+				<p class="filter-title">Age</p>
+				<div class="filter-slider" id="age-slider"></div>
+				<p class="slider-title">17 to 80 years</p>
+			</div>
+			<div class="filter" id="precip">
+				<p class="filter-title">Weather</p>
+				<p class="text-filter">No Rain</p>
+				<p class="text-filter">Some Rain</p>
+				<p class="text-filter selected">All Weather</p>
+			</div>
+			<div class="filter" id="gender">
+				<p class="filter-title">Gender</p>
+				<p class="text-filter">Female</p>
+				<p class="text-filter">Male</p>
+				<p class="text-filter selected">All</p>
+			</div>
+		</div>
+		<div id="right">
+			<div id="map"></div>
+			<div id="legend">
+				<h3>STATION: <span id="station-name"></span></h3>
+				<p class="outbound"><span id="outbound-count"></span>outbound trips</p>
+				<p class="inbound"><span id="inbound-count"></span>inbound trips</p>
+			</div>
+			<div id="mode-toggle">All Stations</div>
+			<!-- <div id="footer">
+				<p id="mode-toggle" class="station">Click to view all stations</p>
+				<div id="selected-label"><p id="label"></p><p>Select stations on the map to view their trip volumes</p></div>
+				<div id="station-legend"></div>
+				<div id="overall-legend"></div>
+			</div> -->
+		</div>
+		<div id="probe"></div>
+	</body>
+</html>

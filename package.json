@@ -1,0 +1,29 @@
+{
+    "name": "pev-explorer",
+    "version": "1.0.0",
+    "description": "PEV Trip Explorer ===============",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nmeyer/pev-explorer.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/nmeyer/pev-explorer/issues"
+    },
+    "homepage": "https://github.com/nmeyer/pev-explorer#readme",
+    "dependencies": {
+        "csv": "^1.1.0",
+        "express": "^4.14.0",
+        "lodash": "^4.14.2",
+        "mongodb": "^2.2.5"
+    },
+    "engines": {
+        "node": "6.1.0"
+    }
+}
