@@ -135,10 +135,12 @@ $(function(){
 	var base = L.tileLayer(TILESET_URL); // The Map
 	var mg = new L.LayerGroup(); // Station "Markers"
 	var g = new L.LayerGroup(); // Trip Arcs
+	var busStops = new L.LayerGroup();
 
 	map.addLayer(base)
 		.addLayer(g)
 		.addLayer(mg);
+		.addLayer(busStops);
 
 	var originalData,
 		trips,
@@ -147,6 +149,24 @@ $(function(){
 		selected,
 		total,
 		p0,p1,p2,p3,p4,p5,p6,p7;
+
+	console.log('Requesting bus stops');
+	$.getJSON("bus-stops.json", function(data) {
+		for (var i in data) {
+			var stops = new L.CircleMarker( new L.LatLng(data[i].lat, data[i].lng), {
+				opacity: 0,
+				weight: 8,
+				fillColor: "#F1416F",
+				fillOpacity: .8
+
+			}).setRadius(2);
+			busStops.addLayer(stops);
+
+		}
+	});
+
+
+
 
 	$.getJSON("trips",function(data){
 		originalData = data;
