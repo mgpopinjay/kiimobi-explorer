@@ -277,6 +277,13 @@ p.time-step ~ p.time-step {
 	color: #00C0EF;
 	padding-left: 5px;
 }
+
+#legend .bus-stops {
+	border-left: 10px solid #F1416F;
+	color: #F1416F;
+	padding-left: 5px;
+}
+
 #mode-toggle {
 	background: black;
 	color: #CCC;
