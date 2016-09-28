@@ -1,0 +1,2823 @@
+id,Rout ID,Route,Bus stop name,Latitude,Longitude
+1,0,Circulation line clockwise,______,34.939774,137.075009
+2,0,Circulation line clockwise,___,34.943536,137.069101
+3,0,Circulation line clockwise,________,34.945917,137.071971
+4,0,Circulation line clockwise,____,34.948472,137.075048
+5,0,Circulation line clockwise,____,34.950385,137.076939
+6,0,Circulation line clockwise,__,34.95315,137.07828
+7,0,Circulation line clockwise,__,34.955485,137.076496
+8,0,Circulation line clockwise,_____,34.957921,137.073289
+9,0,Circulation line clockwise,______,34.959745,137.073922
+10,0,Circulation line clockwise,______,34.960092,137.075681
+11,0,Circulation line clockwise,____,34.958453,137.078481
+12,0,Circulation line clockwise,__________,34.959119,137.080866
+13,0,Circulation line clockwise,_____,34.959851,137.083542
+14,0,Circulation line clockwise,_____,34.958952,137.086672
+15,0,Circulation line clockwise,____,34.956826,137.088448
+16,0,Circulation line clockwise,____,34.95581,137.089513
+17,0,Circulation line clockwise,___,34.954293,137.091072
+18,0,Circulation line clockwise,____,34.952517,137.09244
+19,0,Circulation line clockwise,__,34.952585,137.087719
+20,0,Circulation line clockwise,____,34.949877,137.085777
+21,0,Circulation line clockwise,_____,34.947522,137.084076
+22,0,Circulation line clockwise,______,34.940746,137.078221
+24,0,Circulation line clockwise,___,34.943536,137.069101
+25,0,Circulation line clockwise,________,34.945917,137.071971
+26,0,Circulation line clockwise,____,34.948472,137.075048
+27,0,Circulation line clockwise,____,34.950385,137.076939
+28,0,Circulation line clockwise,__,34.95315,137.07828
+29,0,Circulation line clockwise,__,34.955485,137.076496
+30,0,Circulation line clockwise,_____,34.957921,137.073289
+31,0,Circulation line clockwise,______,34.959745,137.073922
+32,0,Circulation line clockwise,______,34.960092,137.075681
+33,0,Circulation line clockwise,____,34.958453,137.078481
+34,0,Circulation line clockwise,__________,34.959119,137.080866
+35,0,Circulation line clockwise,_____,34.959851,137.083542
+36,0,Circulation line clockwise,_____,34.958952,137.086672
+37,0,Circulation line clockwise,____,34.956826,137.088448
+38,0,Circulation line clockwise,____,34.95581,137.089513
+39,0,Circulation line clockwise,___,34.954293,137.091072
+40,0,Circulation line clockwise,____,34.952517,137.09244
+41,0,Circulation line clockwise,__,34.952585,137.087719
+42,0,Circulation line clockwise,____,34.949877,137.085777
+43,0,Circulation line clockwise,_____,34.947522,137.084076
+44,0,Circulation line clockwise,______,34.940746,137.078221
+46,0,Circulation line clockwise,___,34.943536,137.069101
+47,0,Circulation line clockwise,________,34.945917,137.071971
+48,0,Circulation line clockwise,____,34.948472,137.075048
+49,0,Circulation line clockwise,____,34.950385,137.076939
+50,0,Circulation line clockwise,__,34.95315,137.07828
+51,0,Circulation line clockwise,__,34.955485,137.076496
+52,0,Circulation line clockwise,_____,34.957921,137.073289
+53,0,Circulation line clockwise,______,34.959745,137.073922
+54,0,Circulation line clockwise,______,34.960092,137.075681
+55,0,Circulation line clockwise,____,34.958453,137.078481
+56,0,Circulation line clockwise,__________,34.959119,137.080866
+57,0,Circulation line clockwise,_____,34.959851,137.083542
+58,0,Circulation line clockwise,_____,34.958952,137.086672
+59,0,Circulation line clockwise,____,34.956826,137.088448
+60,0,Circulation line clockwise,____,34.95581,137.089513
+61,0,Circulation line clockwise,___,34.954293,137.091072
+62,0,Circulation line clockwise,____,34.952517,137.09244
+63,0,Circulation line clockwise,__,34.952585,137.087719
+64,0,Circulation line clockwise,____,34.949877,137.085777
+65,0,Circulation line clockwise,_____,34.947522,137.084076
+66,0,Circulation line clockwise,______,34.940746,137.078221
+68,0,Circulation line clockwise,___,34.943536,137.069101
+69,0,Circulation line clockwise,________,34.945917,137.071971
+70,0,Circulation line clockwise,____,34.948472,137.075048
+71,0,Circulation line clockwise,____,34.950385,137.076939
+72,0,Circulation line clockwise,__,34.95315,137.07828
+73,0,Circulation line clockwise,__,34.955485,137.076496
+74,0,Circulation line clockwise,_____,34.957921,137.073289
+75,0,Circulation line clockwise,______,34.959745,137.073922
+76,0,Circulation line clockwise,______,34.960092,137.075681
+77,0,Circulation line clockwise,____,34.958453,137.078481
+78,0,Circulation line clockwise,__________,34.959119,137.080866
+79,0,Circulation line clockwise,_____,34.959851,137.083542
+80,0,Circulation line clockwise,_____,34.958952,137.086672
+81,0,Circulation line clockwise,____,34.956826,137.088448
+82,0,Circulation line clockwise,____,34.95581,137.089513
+83,0,Circulation line clockwise,___,34.954293,137.091072
+84,0,Circulation line clockwise,____,34.952517,137.09244
+85,0,Circulation line clockwise,__,34.952585,137.087719
+86,0,Circulation line clockwise,____,34.949877,137.085777
+87,0,Circulation line clockwise,_____,34.947522,137.084076
+88,0,Circulation line clockwise,______,34.940746,137.078221
+90,0,Circulation line clockwise,___,34.943536,137.069101
+91,0,Circulation line clockwise,________,34.945917,137.071971
+92,0,Circulation line clockwise,____,34.948472,137.075048
+93,0,Circulation line clockwise,____,34.950385,137.076939
+94,0,Circulation line clockwise,__,34.95315,137.07828
+95,0,Circulation line clockwise,__,34.955485,137.076496
+96,0,Circulation line clockwise,_____,34.957921,137.073289
+97,0,Circulation line clockwise,______,34.959745,137.073922
+98,0,Circulation line clockwise,______,34.960092,137.075681
+99,0,Circulation line clockwise,____,34.958453,137.078481
+100,0,Circulation line clockwise,__________,34.959119,137.080866
+101,0,Circulation line clockwise,_____,34.959851,137.083542
+102,0,Circulation line clockwise,_____,34.958952,137.086672
+103,0,Circulation line clockwise,____,34.956826,137.088448
+104,0,Circulation line clockwise,____,34.95581,137.089513
+105,0,Circulation line clockwise,___,34.954293,137.091072
+106,0,Circulation line clockwise,____,34.952517,137.09244
+107,0,Circulation line clockwise,__,34.952585,137.087719
+108,0,Circulation line clockwise,____,34.949877,137.085777
+109,0,Circulation line clockwise,_____,34.947522,137.084076
+110,0,Circulation line clockwise,______,34.940746,137.078221
+112,0,Circulation line clockwise,___,34.943536,137.069101
+113,0,Circulation line clockwise,________,34.945917,137.071971
+114,0,Circulation line clockwise,____,34.948472,137.075048
+115,0,Circulation line clockwise,____,34.950385,137.076939
+116,0,Circulation line clockwise,__,34.95315,137.07828
+117,0,Circulation line clockwise,__,34.955485,137.076496
+118,0,Circulation line clockwise,_____,34.957921,137.073289
+119,0,Circulation line clockwise,______,34.959745,137.073922
+120,0,Circulation line clockwise,______,34.960092,137.075681
+121,0,Circulation line clockwise,____,34.958453,137.078481
+122,0,Circulation line clockwise,__________,34.959119,137.080866
+123,0,Circulation line clockwise,_____,34.959851,137.083542
+124,0,Circulation line clockwise,_____,34.958952,137.086672
+125,0,Circulation line clockwise,____,34.956826,137.088448
+126,0,Circulation line clockwise,____,34.95581,137.089513
+127,0,Circulation line clockwise,___,34.954293,137.091072
+128,0,Circulation line clockwise,____,34.952517,137.09244
+129,0,Circulation line clockwise,__,34.952585,137.087719
+130,0,Circulation line clockwise,____,34.949877,137.085777
+131,0,Circulation line clockwise,_____,34.947522,137.084076
+132,0,Circulation line clockwise,______,34.940746,137.078221
+134,0,Circulation line clockwise,___,34.943536,137.069101
+135,0,Circulation line clockwise,________,34.945917,137.071971
+136,0,Circulation line clockwise,____,34.948472,137.075048
+137,0,Circulation line clockwise,____,34.950385,137.076939
+138,0,Circulation line clockwise,__,34.95315,137.07828
+139,0,Circulation line clockwise,__,34.955485,137.076496
+140,0,Circulation line clockwise,_____,34.957921,137.073289
+141,0,Circulation line clockwise,______,34.959745,137.073922
+142,0,Circulation line clockwise,______,34.960092,137.075681
+143,0,Circulation line clockwise,____,34.958453,137.078481
+144,0,Circulation line clockwise,__________,34.959119,137.080866
+145,0,Circulation line clockwise,_____,34.959851,137.083542
+146,0,Circulation line clockwise,_____,34.958952,137.086672
+147,0,Circulation line clockwise,____,34.956826,137.088448
+148,0,Circulation line clockwise,____,34.95581,137.089513
+149,0,Circulation line clockwise,___,34.954293,137.091072
+150,0,Circulation line clockwise,____,34.952517,137.09244
+151,0,Circulation line clockwise,__,34.952585,137.087719
+152,0,Circulation line clockwise,____,34.949877,137.085777
+153,0,Circulation line clockwise,_____,34.947522,137.084076
+154,0,Circulation line clockwise,______,34.940746,137.078221
+156,0,Circulation line clockwise,___,34.943536,137.069101
+157,0,Circulation line clockwise,________,34.945917,137.071971
+158,0,Circulation line clockwise,____,34.948472,137.075048
+159,0,Circulation line clockwise,____,34.950385,137.076939
+160,0,Circulation line clockwise,__,34.95315,137.07828
+161,0,Circulation line clockwise,__,34.955485,137.076496
+162,0,Circulation line clockwise,_____,34.957921,137.073289
+163,0,Circulation line clockwise,______,34.959745,137.073922
+164,0,Circulation line clockwise,______,34.960092,137.075681
+165,0,Circulation line clockwise,____,34.958453,137.078481
+166,0,Circulation line clockwise,__________,34.959119,137.080866
+167,0,Circulation line clockwise,_____,34.959851,137.083542
+168,0,Circulation line clockwise,_____,34.958952,137.086672
+169,0,Circulation line clockwise,____,34.956826,137.088448
+170,0,Circulation line clockwise,____,34.95581,137.089513
+171,0,Circulation line clockwise,___,34.954293,137.091072
+172,0,Circulation line clockwise,____,34.952517,137.09244
+173,0,Circulation line clockwise,__,34.952585,137.087719
+174,0,Circulation line clockwise,____,34.949877,137.085777
+175,0,Circulation line clockwise,_____,34.947522,137.084076
+176,0,Circulation line clockwise,______,34.940746,137.078221
+178,0,Circulation line clockwise,___,34.943536,137.069101
+179,0,Circulation line clockwise,________,34.945917,137.071971
+180,0,Circulation line clockwise,____,34.948472,137.075048
+181,0,Circulation line clockwise,____,34.950385,137.076939
+182,0,Circulation line clockwise,__,34.95315,137.07828
+183,0,Circulation line clockwise,__,34.955485,137.076496
+184,0,Circulation line clockwise,_____,34.957921,137.073289
+185,0,Circulation line clockwise,______,34.959745,137.073922
+186,0,Circulation line clockwise,______,34.960092,137.075681
+187,0,Circulation line clockwise,____,34.958453,137.078481
+188,0,Circulation line clockwise,__________,34.959119,137.080866
+189,0,Circulation line clockwise,_____,34.959851,137.083542
+190,0,Circulation line clockwise,_____,34.958952,137.086672
+191,0,Circulation line clockwise,____,34.956826,137.088448
+192,0,Circulation line clockwise,____,34.95581,137.089513
+193,0,Circulation line clockwise,___,34.954293,137.091072
+194,0,Circulation line clockwise,____,34.952517,137.09244
+195,0,Circulation line clockwise,__,34.952585,137.087719
+196,0,Circulation line clockwise,____,34.949877,137.085777
+197,0,Circulation line clockwise,_____,34.947522,137.084076
+198,0,Circulation line clockwise,______,34.940746,137.078221
+200,0,Circulation line clockwise,___,34.943536,137.069101
+201,0,Circulation line clockwise,________,34.945917,137.071971
+202,0,Circulation line clockwise,____,34.948472,137.075048
+203,0,Circulation line clockwise,____,34.950385,137.076939
+204,0,Circulation line clockwise,__,34.95315,137.07828
+205,0,Circulation line clockwise,__,34.955485,137.076496
+206,0,Circulation line clockwise,_____,34.957921,137.073289
+207,0,Circulation line clockwise,______,34.959745,137.073922
+208,0,Circulation line clockwise,______,34.960092,137.075681
+209,0,Circulation line clockwise,____,34.958453,137.078481
+210,0,Circulation line clockwise,__________,34.959119,137.080866
+211,0,Circulation line clockwise,_____,34.959851,137.083542
+212,0,Circulation line clockwise,_____,34.958952,137.086672
+213,0,Circulation line clockwise,____,34.956826,137.088448
+214,0,Circulation line clockwise,____,34.95581,137.089513
+215,0,Circulation line clockwise,___,34.954293,137.091072
+216,0,Circulation line clockwise,____,34.952517,137.09244
+217,0,Circulation line clockwise,__,34.952585,137.087719
+218,0,Circulation line clockwise,____,34.949877,137.085777
+219,0,Circulation line clockwise,_____,34.947522,137.084076
+220,0,Circulation line clockwise,______,34.940746,137.078221
+222,0,Circulation line clockwise,___,34.943536,137.069101
+223,0,Circulation line clockwise,________,34.945917,137.071971
+224,0,Circulation line clockwise,____,34.948472,137.075048
+225,0,Circulation line clockwise,____,34.950385,137.076939
+226,0,Circulation line clockwise,__,34.95315,137.07828
+227,0,Circulation line clockwise,__,34.955485,137.076496
+228,0,Circulation line clockwise,_____,34.957921,137.073289
+229,0,Circulation line clockwise,______,34.959745,137.073922
+230,0,Circulation line clockwise,______,34.960092,137.075681
+231,0,Circulation line clockwise,____,34.958453,137.078481
+232,0,Circulation line clockwise,__________,34.959119,137.080866
+233,0,Circulation line clockwise,_____,34.959851,137.083542
+234,0,Circulation line clockwise,_____,34.958952,137.086672
+235,0,Circulation line clockwise,____,34.956826,137.088448
+236,0,Circulation line clockwise,____,34.95581,137.089513
+237,0,Circulation line clockwise,___,34.954293,137.091072
+238,0,Circulation line clockwise,____,34.952517,137.09244
+239,0,Circulation line clockwise,__,34.952585,137.087719
+240,0,Circulation line clockwise,____,34.949877,137.085777
+241,0,Circulation line clockwise,_____,34.947522,137.084076
+242,0,Circulation line clockwise,______,34.940746,137.078221
+244,0,Circulation line clockwise,___,34.943536,137.069101
+245,0,Circulation line clockwise,________,34.945917,137.071971
+246,0,Circulation line clockwise,____,34.948472,137.075048
+247,0,Circulation line clockwise,____,34.950385,137.076939
+248,0,Circulation line clockwise,__,34.95315,137.07828
+249,0,Circulation line clockwise,__,34.955485,137.076496
+250,0,Circulation line clockwise,_____,34.957921,137.073289
+251,0,Circulation line clockwise,______,34.959745,137.073922
+252,0,Circulation line clockwise,______,34.960092,137.075681
+253,0,Circulation line clockwise,____,34.958453,137.078481
+254,0,Circulation line clockwise,__________,34.959119,137.080866
+255,0,Circulation line clockwise,_____,34.959851,137.083542
+256,0,Circulation line clockwise,_____,34.958952,137.086672
+257,0,Circulation line clockwise,____,34.956826,137.088448
+258,0,Circulation line clockwise,____,34.95581,137.089513
+259,0,Circulation line clockwise,___,34.954293,137.091072
+260,0,Circulation line clockwise,____,34.952517,137.09244
+261,0,Circulation line clockwise,__,34.952585,137.087719
+262,0,Circulation line clockwise,____,34.949877,137.085777
+263,0,Circulation line clockwise,_____,34.947522,137.084076
+264,0,Circulation line clockwise,______,34.940746,137.078221
+266,0,Circulation line clockwise,___,34.943536,137.069101
+267,0,Circulation line clockwise,________,34.945917,137.071971
+268,0,Circulation line clockwise,____,34.948472,137.075048
+269,0,Circulation line clockwise,____,34.950385,137.076939
+270,0,Circulation line clockwise,__,34.95315,137.07828
+271,0,Circulation line clockwise,__,34.955485,137.076496
+272,0,Circulation line clockwise,_____,34.957921,137.073289
+273,0,Circulation line clockwise,______,34.959745,137.073922
+274,0,Circulation line clockwise,______,34.960092,137.075681
+275,0,Circulation line clockwise,____,34.958453,137.078481
+276,0,Circulation line clockwise,__________,34.959119,137.080866
+277,0,Circulation line clockwise,_____,34.959851,137.083542
+278,0,Circulation line clockwise,_____,34.958952,137.086672
+279,0,Circulation line clockwise,____,34.956826,137.088448
+280,0,Circulation line clockwise,____,34.95581,137.089513
+281,0,Circulation line clockwise,___,34.954293,137.091072
+282,0,Circulation line clockwise,____,34.952517,137.09244
+283,0,Circulation line clockwise,__,34.952585,137.087719
+284,0,Circulation line clockwise,____,34.949877,137.085777
+285,0,Circulation line clockwise,_____,34.947522,137.084076
+286,0,Circulation line clockwise,______,34.940746,137.078221
+288,0,Circulation line clockwise,___,34.943536,137.069101
+289,0,Circulation line clockwise,________,34.945917,137.071971
+290,0,Circulation line clockwise,____,34.948472,137.075048
+291,0,Circulation line clockwise,____,34.950385,137.076939
+292,0,Circulation line clockwise,__,34.95315,137.07828
+293,0,Circulation line clockwise,__,34.955485,137.076496
+294,0,Circulation line clockwise,_____,34.957921,137.073289
+295,0,Circulation line clockwise,______,34.959745,137.073922
+296,0,Circulation line clockwise,______,34.960092,137.075681
+297,0,Circulation line clockwise,____,34.958453,137.078481
+298,0,Circulation line clockwise,__________,34.959119,137.080866
+299,0,Circulation line clockwise,_____,34.959851,137.083542
+300,0,Circulation line clockwise,_____,34.958952,137.086672
+301,0,Circulation line clockwise,____,34.956826,137.088448
+302,0,Circulation line clockwise,____,34.95581,137.089513
+303,0,Circulation line clockwise,___,34.954293,137.091072
+304,0,Circulation line clockwise,____,34.952517,137.09244
+305,0,Circulation line clockwise,__,34.952585,137.087719
+306,0,Circulation line clockwise,____,34.949877,137.085777
+307,0,Circulation line clockwise,_____,34.947522,137.084076
+308,0,Circulation line clockwise,______,34.940746,137.078221
+310,0,Circulation line clockwise,___,34.943536,137.069101
+311,0,Circulation line clockwise,________,34.945917,137.071971
+312,0,Circulation line clockwise,____,34.948472,137.075048
+313,0,Circulation line clockwise,____,34.950385,137.076939
+314,0,Circulation line clockwise,__,34.95315,137.07828
+315,0,Circulation line clockwise,__,34.955485,137.076496
+316,0,Circulation line clockwise,_____,34.957921,137.073289
+317,0,Circulation line clockwise,______,34.959745,137.073922
+318,0,Circulation line clockwise,______,34.960092,137.075681
+319,0,Circulation line clockwise,____,34.958453,137.078481
+320,0,Circulation line clockwise,__________,34.959119,137.080866
+321,0,Circulation line clockwise,_____,34.959851,137.083542
+322,0,Circulation line clockwise,_____,34.958952,137.086672
+323,0,Circulation line clockwise,____,34.956826,137.088448
+324,0,Circulation line clockwise,____,34.95581,137.089513
+325,0,Circulation line clockwise,___,34.954293,137.091072
+326,0,Circulation line clockwise,____,34.952517,137.09244
+327,0,Circulation line clockwise,__,34.952585,137.087719
+328,0,Circulation line clockwise,____,34.949877,137.085777
+329,0,Circulation line clockwise,_____,34.947522,137.084076
+330,0,Circulation line clockwise,______,34.940746,137.078221
+332,0,Circulation line counterclockwise,_____,34.947522,137.084076
+333,0,Circulation line counterclockwise,____,34.949877,137.085777
+334,0,Circulation line counterclockwise,__,34.952585,137.087719
+335,0,Circulation line counterclockwise,____,34.953232,137.09215
+336,0,Circulation line counterclockwise,___,34.954293,137.091072
+337,0,Circulation line counterclockwise,____,34.95581,137.089513
+338,0,Circulation line counterclockwise,____,34.956826,137.088448
+339,0,Circulation line counterclockwise,_____,34.959094,137.085996
+340,0,Circulation line counterclockwise,_____,34.959851,137.083542
+341,0,Circulation line counterclockwise,___,34.958617,137.081284
+342,0,Circulation line counterclockwise,___,34.955452,137.079401
+343,0,Circulation line counterclockwise,__,34.95315,137.07828
+344,0,Circulation line counterclockwise,____,34.950385,137.076939
+345,0,Circulation line counterclockwise,____,34.948472,137.075048
+346,0,Circulation line counterclockwise,________,34.945917,137.071971
+347,0,Circulation line counterclockwise,___,34.943536,137.069101
+348,0,Circulation line counterclockwise,______,34.940746,137.078221
+350,0,Circulation line counterclockwise,_____,34.947522,137.084076
+351,0,Circulation line counterclockwise,____,34.949877,137.085777
+352,0,Circulation line counterclockwise,__,34.952585,137.087719
+353,0,Circulation line counterclockwise,____,34.953232,137.09215
+354,0,Circulation line counterclockwise,___,34.954293,137.091072
+355,0,Circulation line counterclockwise,____,34.95581,137.089513
+356,0,Circulation line counterclockwise,____,34.956826,137.088448
+357,0,Circulation line counterclockwise,_____,34.959094,137.085996
+358,0,Circulation line counterclockwise,_____,34.959851,137.083542
+359,0,Circulation line counterclockwise,___,34.958617,137.081284
+360,0,Circulation line counterclockwise,___,34.955452,137.079401
+361,0,Circulation line counterclockwise,__,34.95315,137.07828
+362,0,Circulation line counterclockwise,____,34.950385,137.076939
+363,0,Circulation line counterclockwise,____,34.948472,137.075048
+364,0,Circulation line counterclockwise,________,34.945917,137.071971
+365,0,Circulation line counterclockwise,___,34.943536,137.069101
+366,0,Circulation line counterclockwise,______,34.940746,137.078221
+368,0,Circulation line counterclockwise,_____,34.947522,137.084076
+369,0,Circulation line counterclockwise,____,34.949877,137.085777
+370,0,Circulation line counterclockwise,__,34.952585,137.087719
+371,0,Circulation line counterclockwise,____,34.953232,137.09215
+372,0,Circulation line counterclockwise,___,34.954293,137.091072
+373,0,Circulation line counterclockwise,____,34.95581,137.089513
+374,0,Circulation line counterclockwise,____,34.956826,137.088448
+375,0,Circulation line counterclockwise,_____,34.959094,137.085996
+376,0,Circulation line counterclockwise,_____,34.959851,137.083542
+377,0,Circulation line counterclockwise,___,34.958617,137.081284
+378,0,Circulation line counterclockwise,___,34.955452,137.079401
+379,0,Circulation line counterclockwise,__,34.95315,137.07828
+380,0,Circulation line counterclockwise,____,34.950385,137.076939
+381,0,Circulation line counterclockwise,____,34.948472,137.075048
+382,0,Circulation line counterclockwise,________,34.945917,137.071971
+383,0,Circulation line counterclockwise,___,34.943536,137.069101
+384,0,Circulation line counterclockwise,______,34.940746,137.078221
+386,0,Circulation line counterclockwise,_____,34.947522,137.084076
+387,0,Circulation line counterclockwise,____,34.949877,137.085777
+388,0,Circulation line counterclockwise,__,34.952585,137.087719
+389,0,Circulation line counterclockwise,____,34.953232,137.09215
+390,0,Circulation line counterclockwise,___,34.954293,137.091072
+391,0,Circulation line counterclockwise,____,34.95581,137.089513
+392,0,Circulation line counterclockwise,____,34.956826,137.088448
+393,0,Circulation line counterclockwise,_____,34.959094,137.085996
+394,0,Circulation line counterclockwise,_____,34.959851,137.083542
+395,0,Circulation line counterclockwise,___,34.958617,137.081284
+396,0,Circulation line counterclockwise,___,34.955452,137.079401
+397,0,Circulation line counterclockwise,__,34.95315,137.07828
+398,0,Circulation line counterclockwise,____,34.950385,137.076939
+399,0,Circulation line counterclockwise,____,34.948472,137.075048
+400,0,Circulation line counterclockwise,________,34.945917,137.071971
+401,0,Circulation line counterclockwise,___,34.943536,137.069101
+402,0,Circulation line counterclockwise,______,34.940746,137.078221
+404,0,Circulation line counterclockwise,_____,34.947522,137.084076
+405,0,Circulation line counterclockwise,____,34.949877,137.085777
+406,0,Circulation line counterclockwise,__,34.952585,137.087719
+407,0,Circulation line counterclockwise,____,34.953232,137.09215
+408,0,Circulation line counterclockwise,___,34.954293,137.091072
+409,0,Circulation line counterclockwise,____,34.95581,137.089513
+410,0,Circulation line counterclockwise,____,34.956826,137.088448
+411,0,Circulation line counterclockwise,_____,34.959094,137.085996
+412,0,Circulation line counterclockwise,_____,34.959851,137.083542
+413,0,Circulation line counterclockwise,___,34.958617,137.081284
+414,0,Circulation line counterclockwise,___,34.955452,137.079401
+415,0,Circulation line counterclockwise,__,34.95315,137.07828
+416,0,Circulation line counterclockwise,____,34.950385,137.076939
+417,0,Circulation line counterclockwise,____,34.948472,137.075048
+418,0,Circulation line counterclockwise,________,34.945917,137.071971
+419,0,Circulation line counterclockwise,___,34.943536,137.069101
+420,0,Circulation line counterclockwise,______,34.940746,137.078221
+422,0,Circulation line counterclockwise,_____,34.947522,137.084076
+423,0,Circulation line counterclockwise,____,34.949877,137.085777
+424,0,Circulation line counterclockwise,__,34.952585,137.087719
+425,0,Circulation line counterclockwise,____,34.953232,137.09215
+426,0,Circulation line counterclockwise,___,34.954293,137.091072
+427,0,Circulation line counterclockwise,____,34.95581,137.089513
+428,0,Circulation line counterclockwise,____,34.956826,137.088448
+429,0,Circulation line counterclockwise,_____,34.959094,137.085996
+430,0,Circulation line counterclockwise,_____,34.959851,137.083542
+431,0,Circulation line counterclockwise,___,34.958617,137.081284
+432,0,Circulation line counterclockwise,___,34.955452,137.079401
+433,0,Circulation line counterclockwise,__,34.95315,137.07828
+434,0,Circulation line counterclockwise,____,34.950385,137.076939
+435,0,Circulation line counterclockwise,____,34.948472,137.075048
+436,0,Circulation line counterclockwise,________,34.945917,137.071971
+437,0,Circulation line counterclockwise,___,34.943536,137.069101
+438,0,Circulation line counterclockwise,______,34.940746,137.078221
+440,0,Circulation line counterclockwise,_____,34.947522,137.084076
+441,0,Circulation line counterclockwise,____,34.949877,137.085777
+442,0,Circulation line counterclockwise,__,34.952585,137.087719
+443,0,Circulation line counterclockwise,____,34.953232,137.09215
+444,0,Circulation line counterclockwise,___,34.954293,137.091072
+445,0,Circulation line counterclockwise,____,34.95581,137.089513
+446,0,Circulation line counterclockwise,____,34.956826,137.088448
+447,0,Circulation line counterclockwise,_____,34.959094,137.085996
+448,0,Circulation line counterclockwise,_____,34.959851,137.083542
+449,0,Circulation line counterclockwise,___,34.958617,137.081284
+450,0,Circulation line counterclockwise,___,34.955452,137.079401
+451,0,Circulation line counterclockwise,__,34.95315,137.07828
+452,0,Circulation line counterclockwise,____,34.950385,137.076939
+453,0,Circulation line counterclockwise,____,34.948472,137.075048
+454,0,Circulation line counterclockwise,________,34.945917,137.071971
+455,0,Circulation line counterclockwise,___,34.943536,137.069101
+456,0,Circulation line counterclockwise,______,34.940746,137.078221
+458,0,Circulation line counterclockwise,_____,34.947522,137.084076
+459,0,Circulation line counterclockwise,____,34.949877,137.085777
+460,0,Circulation line counterclockwise,__,34.952585,137.087719
+461,0,Circulation line counterclockwise,____,34.953232,137.09215
+462,0,Circulation line counterclockwise,___,34.954293,137.091072
+463,0,Circulation line counterclockwise,____,34.95581,137.089513
+464,0,Circulation line counterclockwise,____,34.956826,137.088448
+465,0,Circulation line counterclockwise,_____,34.959094,137.085996
+466,0,Circulation line counterclockwise,_____,34.959851,137.083542
+467,0,Circulation line counterclockwise,___,34.958617,137.081284
+468,0,Circulation line counterclockwise,___,34.955452,137.079401
+469,0,Circulation line counterclockwise,__,34.95315,137.07828
+470,0,Circulation line counterclockwise,____,34.950385,137.076939
+471,0,Circulation line counterclockwise,____,34.948472,137.075048
+472,0,Circulation line counterclockwise,________,34.945917,137.071971
+473,0,Circulation line counterclockwise,___,34.943536,137.069101
+474,0,Circulation line counterclockwise,______,34.940746,137.078221
+476,0,Circulation line counterclockwise,_____,34.947522,137.084076
+477,0,Circulation line counterclockwise,____,34.949877,137.085777
+478,0,Circulation line counterclockwise,__,34.952585,137.087719
+479,0,Circulation line counterclockwise,____,34.953232,137.09215
+480,0,Circulation line counterclockwise,___,34.954293,137.091072
+481,0,Circulation line counterclockwise,____,34.95581,137.089513
+482,0,Circulation line counterclockwise,____,34.956826,137.088448
+483,0,Circulation line counterclockwise,_____,34.959094,137.085996
+484,0,Circulation line counterclockwise,_____,34.959851,137.083542
+485,0,Circulation line counterclockwise,___,34.958617,137.081284
+486,0,Circulation line counterclockwise,___,34.955452,137.079401
+487,0,Circulation line counterclockwise,__,34.95315,137.07828
+488,0,Circulation line counterclockwise,____,34.950385,137.076939
+489,0,Circulation line counterclockwise,____,34.948472,137.075048
+490,0,Circulation line counterclockwise,________,34.945917,137.071971
+491,0,Circulation line counterclockwise,___,34.943536,137.069101
+492,0,Circulation line counterclockwise,_________,34.940746,137.078221
+493,0,Circulation line counterclockwise,______,34.942369,137.080438
+494,0,Circulation line counterclockwise,_____,34.947522,137.084076
+495,0,Circulation line counterclockwise,____,34.949877,137.085777
+496,0,Circulation line counterclockwise,__,34.952585,137.087719
+497,0,Circulation line counterclockwise,____,34.953232,137.09215
+498,0,Circulation line counterclockwise,___,34.954293,137.091072
+499,0,Circulation line counterclockwise,____,34.95581,137.089513
+500,0,Circulation line counterclockwise,____,34.956826,137.088448
+501,0,Circulation line counterclockwise,_____,34.959094,137.085996
+502,0,Circulation line counterclockwise,_____,34.959851,137.083542
+503,0,Circulation line counterclockwise,___,34.958617,137.081284
+504,0,Circulation line counterclockwise,___,34.955452,137.079401
+505,0,Circulation line counterclockwise,__,34.95315,137.07828
+506,0,Circulation line counterclockwise,____,34.950385,137.076939
+507,0,Circulation line counterclockwise,____,34.948472,137.075048
+508,0,Circulation line counterclockwise,________,34.945917,137.071971
+509,0,Circulation line counterclockwise,___,34.943536,137.069101
+510,0,Circulation line counterclockwise,______,34.940746,137.078221
+512,0,Circulation line counterclockwise,_____,34.947522,137.084076
+513,0,Circulation line counterclockwise,____,34.949877,137.085777
+514,0,Circulation line counterclockwise,__,34.952585,137.087719
+515,0,Circulation line counterclockwise,____,34.953232,137.09215
+516,0,Circulation line counterclockwise,___,34.954293,137.091072
+517,0,Circulation line counterclockwise,____,34.95581,137.089513
+518,0,Circulation line counterclockwise,____,34.956826,137.088448
+519,0,Circulation line counterclockwise,_____,34.959094,137.085996
+520,0,Circulation line counterclockwise,_____,34.959851,137.083542
+521,0,Circulation line counterclockwise,___,34.958617,137.081284
+522,0,Circulation line counterclockwise,___,34.955452,137.079401
+523,0,Circulation line counterclockwise,__,34.95315,137.07828
+524,0,Circulation line counterclockwise,____,34.950385,137.076939
+525,0,Circulation line counterclockwise,____,34.948472,137.075048
+526,0,Circulation line counterclockwise,________,34.945917,137.071971
+527,0,Circulation line counterclockwise,___,34.943536,137.069101
+528,0,Circulation line counterclockwise,______,34.940746,137.078221
+530,0,Circulation line counterclockwise,_____,34.947522,137.084076
+531,0,Circulation line counterclockwise,____,34.949877,137.085777
+532,0,Circulation line counterclockwise,__,34.952585,137.087719
+533,0,Circulation line counterclockwise,____,34.953232,137.09215
+534,0,Circulation line counterclockwise,___,34.954293,137.091072
+535,0,Circulation line counterclockwise,____,34.95581,137.089513
+536,0,Circulation line counterclockwise,____,34.956826,137.088448
+537,0,Circulation line counterclockwise,_____,34.959094,137.085996
+538,0,Circulation line counterclockwise,_____,34.959851,137.083542
+539,0,Circulation line counterclockwise,___,34.958617,137.081284
+540,0,Circulation line counterclockwise,___,34.955452,137.079401
+541,0,Circulation line counterclockwise,__,34.95315,137.07828
+542,0,Circulation line counterclockwise,____,34.950385,137.076939
+543,0,Circulation line counterclockwise,____,34.948472,137.075048
+544,0,Circulation line counterclockwise,________,34.945917,137.071971
+545,0,Circulation line counterclockwise,___,34.943536,137.069101
+546,0,Circulation line counterclockwise,______,34.940746,137.078221
+548,0,Circulation line counterclockwise,_____,34.947522,137.084076
+549,0,Circulation line counterclockwise,____,34.949877,137.085777
+550,0,Circulation line counterclockwise,__,34.952585,137.087719
+551,0,Circulation line counterclockwise,____,34.953232,137.09215
+552,0,Circulation line counterclockwise,___,34.954293,137.091072
+553,0,Circulation line counterclockwise,____,34.95581,137.089513
+554,0,Circulation line counterclockwise,____,34.956826,137.088448
+555,0,Circulation line counterclockwise,_____,34.959094,137.085996
+556,0,Circulation line counterclockwise,_____,34.959851,137.083542
+557,0,Circulation line counterclockwise,___,34.958617,137.081284
+558,0,Circulation line counterclockwise,___,34.955452,137.079401
+559,0,Circulation line counterclockwise,__,34.95315,137.07828
+560,0,Circulation line counterclockwise,____,34.950385,137.076939
+561,0,Circulation line counterclockwise,____,34.948472,137.075048
+562,0,Circulation line counterclockwise,________,34.945917,137.071971
+563,0,Circulation line counterclockwise,___,34.943536,137.069101
+564,0,Circulation line counterclockwise,______,34.940746,137.078221
+566,0,Circulation line counterclockwise,_____,34.947522,137.084076
+567,0,Circulation line counterclockwise,____,34.949877,137.085777
+568,0,Circulation line counterclockwise,__,34.952585,137.087719
+569,0,Circulation line counterclockwise,____,34.953232,137.09215
+570,0,Circulation line counterclockwise,___,34.954293,137.091072
+571,0,Circulation line counterclockwise,____,34.95581,137.089513
+572,0,Circulation line counterclockwise,____,34.956826,137.088448
+573,0,Circulation line counterclockwise,_____,34.959094,137.085996
+574,0,Circulation line counterclockwise,_____,34.959851,137.083542
+575,0,Circulation line counterclockwise,___,34.958617,137.081284
+576,0,Circulation line counterclockwise,___,34.955452,137.079401
+577,0,Circulation line counterclockwise,__,34.95315,137.07828
+578,0,Circulation line counterclockwise,____,34.950385,137.076939
+579,0,Circulation line counterclockwise,____,34.948472,137.075048
+580,0,Circulation line counterclockwise,________,34.945917,137.071971
+581,0,Circulation line counterclockwise,___,34.943536,137.069101
+582,0,Circulation line counterclockwise,______,34.940746,137.078221
+584,0,Circulation line counterclockwise,_____,34.947522,137.084076
+585,0,Circulation line counterclockwise,____,34.949877,137.085777
+586,0,Circulation line counterclockwise,__,34.952585,137.087719
+587,0,Circulation line counterclockwise,____,34.953232,137.09215
+588,0,Circulation line counterclockwise,___,34.954293,137.091072
+589,0,Circulation line counterclockwise,____,34.95581,137.089513
+590,0,Circulation line counterclockwise,____,34.956826,137.088448
+591,0,Circulation line counterclockwise,_____,34.959094,137.085996
+592,0,Circulation line counterclockwise,_____,34.959851,137.083542
+593,0,Circulation line counterclockwise,___,34.958617,137.081284
+594,0,Circulation line counterclockwise,___,34.955452,137.079401
+595,0,Circulation line counterclockwise,__,34.95315,137.07828
+596,0,Circulation line counterclockwise,____,34.950385,137.076939
+597,0,Circulation line counterclockwise,____,34.948472,137.075048
+598,0,Circulation line counterclockwise,________,34.945917,137.071971
+599,0,Circulation line counterclockwise,___,34.943536,137.069101
+600,0,Circulation line counterclockwise,______,34.940746,137.078221
+602,0,Circulation line counterclockwise,_____,34.947522,137.084076
+603,0,Circulation line counterclockwise,____,34.949877,137.085777
+604,0,Circulation line counterclockwise,__,34.952585,137.087719
+605,0,Circulation line counterclockwise,____,34.953232,137.09215
+606,0,Circulation line counterclockwise,___,34.954293,137.091072
+607,0,Circulation line counterclockwise,____,34.95581,137.089513
+608,0,Circulation line counterclockwise,____,34.956826,137.088448
+609,0,Circulation line counterclockwise,_____,34.959094,137.085996
+610,0,Circulation line counterclockwise,_____,34.959851,137.083542
+611,0,Circulation line counterclockwise,___,34.958617,137.081284
+612,0,Circulation line counterclockwise,___,34.955452,137.079401
+613,0,Circulation line counterclockwise,__,34.95315,137.07828
+614,0,Circulation line counterclockwise,____,34.950385,137.076939
+615,0,Circulation line counterclockwise,____,34.948472,137.075048
+616,0,Circulation line counterclockwise,________,34.945917,137.071971
+617,0,Circulation line counterclockwise,___,34.943536,137.069101
+618,0,Circulation line counterclockwise,______,34.940746,137.078221
+620,0,Circulation line counterclockwise,_____,34.947522,137.084076
+621,0,Circulation line counterclockwise,____,34.949877,137.085777
+622,0,Circulation line counterclockwise,__,34.952585,137.087719
+623,0,Circulation line counterclockwise,____,34.953232,137.09215
+624,0,Circulation line counterclockwise,___,34.954293,137.091072
+625,0,Circulation line counterclockwise,____,34.95581,137.089513
+626,0,Circulation line counterclockwise,____,34.956826,137.088448
+627,0,Circulation line counterclockwise,_____,34.959094,137.085996
+628,0,Circulation line counterclockwise,_____,34.959851,137.083542
+629,0,Circulation line counterclockwise,___,34.958617,137.081284
+630,0,Circulation line counterclockwise,___,34.955452,137.079401
+631,0,Circulation line counterclockwise,__,34.95315,137.07828
+632,0,Circulation line counterclockwise,____,34.950385,137.076939
+633,0,Circulation line counterclockwise,____,34.948472,137.075048
+634,0,Circulation line counterclockwise,________,34.945917,137.071971
+635,0,Circulation line counterclockwise,___,34.943536,137.069101
+636,0,Circulation line counterclockwise,______,34.940746,137.078221
+638,0,Circulation line counterclockwise,_____,34.947522,137.084076
+639,0,Circulation line counterclockwise,____,34.949877,137.085777
+640,0,Circulation line counterclockwise,__,34.952585,137.087719
+641,0,Circulation line counterclockwise,____,34.953232,137.09215
+642,0,Circulation line counterclockwise,___,34.954293,137.091072
+643,0,Circulation line counterclockwise,____,34.95581,137.089513
+644,0,Circulation line counterclockwise,____,34.956826,137.088448
+645,0,Circulation line counterclockwise,_____,34.959094,137.085996
+646,0,Circulation line counterclockwise,_____,34.959851,137.083542
+647,0,Circulation line counterclockwise,___,34.958617,137.081284
+648,0,Circulation line counterclockwise,___,34.955452,137.079401
+649,0,Circulation line counterclockwise,__,34.95315,137.07828
+650,0,Circulation line counterclockwise,____,34.950385,137.076939
+651,0,Circulation line counterclockwise,____,34.948472,137.075048
+652,0,Circulation line counterclockwise,________,34.945917,137.071971
+653,0,Circulation line counterclockwise,___,34.943536,137.069101
+654,0,Circulation line counterclockwise,______,34.940746,137.078221
+656,0,Circulation line counterclockwise,_____,34.947522,137.084076
+657,0,Circulation line counterclockwise,____,34.949877,137.085777
+658,0,Circulation line counterclockwise,__,34.952585,137.087719
+659,0,Circulation line counterclockwise,____,34.953232,137.09215
+660,0,Circulation line counterclockwise,___,34.954293,137.091072
+661,0,Circulation line counterclockwise,____,34.95581,137.089513
+662,0,Circulation line counterclockwise,____,34.956826,137.088448
+663,0,Circulation line counterclockwise,_____,34.959094,137.085996
+664,0,Circulation line counterclockwise,_____,34.959851,137.083542
+665,0,Circulation line counterclockwise,___,34.958617,137.081284
+666,0,Circulation line counterclockwise,___,34.955452,137.079401
+667,0,Circulation line counterclockwise,__,34.95315,137.07828
+668,0,Circulation line counterclockwise,____,34.950385,137.076939
+669,0,Circulation line counterclockwise,____,34.948472,137.075048
+670,0,Circulation line counterclockwise,________,34.945917,137.071971
+671,0,Circulation line counterclockwise,___,34.943536,137.069101
+672,0,Circulation line counterclockwise,______,34.940746,137.078221
+673,1,Ansho line,__,34.926937,137.106746
+674,1,Ansho line,__,34.927249,137.111019
+675,1,Ansho line,__,34.933037,137.111322
+676,1,Ansho line,_____,34.94606,137.098987
+677,1,Ansho line,__,34.948681,137.09643
+678,1,Ansho line,____,34.952517,137.09244
+679,1,Ansho line,___,34.954293,137.091072
+680,1,Ansho line,____,34.95581,137.089513
+681,1,Ansho line,____,34.956826,137.088448
+682,1,Ansho line,_____,34.959266,137.087528
+683,1,Ansho line,_____,34.95563,137.093866
+684,1,Ansho line,_____,34.954122,137.097439
+685,1,Ansho line,__,34.954416,137.102561
+686,1,Ansho line,__,34.95381,137.100411
+687,1,Ansho line,_____,34.954122,137.097439
+688,1,Ansho line,_____,34.95563,137.093866
+689,1,Ansho line,_____,34.959266,137.087528
+690,1,Ansho line,____,34.956826,137.088448
+691,1,Ansho line,____,34.95581,137.089513
+692,1,Ansho line,___,34.954293,137.091072
+693,1,Ansho line,____,34.952517,137.09244
+694,1,Ansho line,__,34.948681,137.09643
+695,1,Ansho line,_____,34.94606,137.098987
+696,1,Ansho line,__,34.933037,137.111322
+697,1,Ansho line,__,34.927249,137.111019
+698,1,Ansho line,__,34.924381,137.106698
+700,1,Ansho line,__,34.927249,137.111019
+701,1,Ansho line,__,34.933037,137.111322
+702,1,Ansho line,________,34.943428,137.092823
+703,1,Ansho line,_____,34.94606,137.098987
+704,1,Ansho line,__,34.948681,137.09643
+705,1,Ansho line,____,34.952517,137.09244
+706,1,Ansho line,___,34.954293,137.091072
+707,1,Ansho line,____,34.95581,137.089513
+708,1,Ansho line,____,34.956826,137.088448
+709,1,Ansho line,_____,34.958118,137.089879
+710,1,Ansho line,_____,34.95563,137.093866
+711,1,Ansho line,_____,34.954122,137.097439
+712,1,Ansho line,__,34.954416,137.102561
+713,1,Ansho line,__,34.95381,137.100411
+714,1,Ansho line,__________,34.952007,137.097015
+715,1,Ansho line,____,34.952517,137.09244
+716,1,Ansho line,__________,34.952007,137.097015
+717,1,Ansho line,__,34.954416,137.102561
+718,1,Ansho line,__,34.95381,137.100411
+719,1,Ansho line,_____,34.954122,137.097439
+720,1,Ansho line,_____,34.95563,137.093866
+721,1,Ansho line,_____,34.959266,137.087528
+722,1,Ansho line,____,34.956826,137.088448
+723,1,Ansho line,____,34.95581,137.089513
+724,1,Ansho line,___,34.954293,137.091072
+725,1,Ansho line,____,34.952517,137.09244
+726,1,Ansho line,__,34.948681,137.09643
+727,1,Ansho line,_____,34.94606,137.098987
+728,1,Ansho line,________,34.943428,137.092823
+729,1,Ansho line,__,34.933037,137.111322
+730,1,Ansho line,__,34.927249,137.111019
+731,1,Ansho line,__,34.924381,137.106698
+733,1,Ansho line,__,34.927249,137.111019
+734,1,Ansho line,__,34.933037,137.111322
+735,1,Ansho line,________,34.943428,137.092823
+736,1,Ansho line,_____,34.94606,137.098987
+737,1,Ansho line,__,34.948681,137.09643
+738,1,Ansho line,____,34.952517,137.09244
+739,1,Ansho line,___,34.954293,137.091072
+740,1,Ansho line,____,34.95581,137.089513
+741,1,Ansho line,____,34.956826,137.088448
+742,1,Ansho line,_____,34.958118,137.089879
+743,1,Ansho line,_____,34.95563,137.093866
+744,1,Ansho line,_____,34.954122,137.097439
+745,1,Ansho line,__,34.954416,137.102561
+746,1,Ansho line,__,34.95381,137.100411
+747,1,Ansho line,__________,34.952007,137.097015
+748,1,Ansho line,____,34.952517,137.09244
+749,1,Ansho line,__________,34.952007,137.097015
+750,1,Ansho line,__,34.954416,137.102561
+751,1,Ansho line,__,34.95381,137.100411
+752,1,Ansho line,_____,34.954122,137.097439
+753,1,Ansho line,_____,34.95563,137.093866
+754,1,Ansho line,_____,34.959266,137.087528
+755,1,Ansho line,____,34.956826,137.088448
+756,1,Ansho line,____,34.95581,137.089513
+757,1,Ansho line,___,34.954293,137.091072
+758,1,Ansho line,____,34.952517,137.09244
+759,1,Ansho line,__,34.948681,137.09643
+760,1,Ansho line,_____,34.94606,137.098987
+761,1,Ansho line,________,34.943428,137.092823
+762,1,Ansho line,__,34.933037,137.111322
+763,1,Ansho line,__,34.927249,137.111019
+764,1,Ansho line,__,34.924381,137.106698
+766,1,Ansho line,__,34.927249,137.111019
+767,1,Ansho line,__,34.933037,137.111322
+768,1,Ansho line,________,34.943428,137.092823
+769,1,Ansho line,_____,34.94606,137.098987
+770,1,Ansho line,__,34.948681,137.09643
+771,1,Ansho line,____,34.952517,137.09244
+772,1,Ansho line,___,34.954293,137.091072
+773,1,Ansho line,____,34.95581,137.089513
+774,1,Ansho line,____,34.956826,137.088448
+775,1,Ansho line,_____,34.958118,137.089879
+776,1,Ansho line,_____,34.95563,137.093866
+777,1,Ansho line,_____,34.954122,137.097439
+778,1,Ansho line,__,34.954416,137.102561
+779,1,Ansho line,__,34.95381,137.100411
+780,1,Ansho line,__________,34.952007,137.097015
+781,1,Ansho line,____,34.952517,137.09244
+782,1,Ansho line,__________,34.952007,137.097015
+783,1,Ansho line,__,34.954416,137.102561
+784,1,Ansho line,__,34.95381,137.100411
+785,1,Ansho line,_____,34.954122,137.097439
+786,1,Ansho line,_____,34.95563,137.093866
+787,1,Ansho line,_____,34.959266,137.087528
+788,1,Ansho line,____,34.956826,137.088448
+789,1,Ansho line,____,34.95581,137.089513
+790,1,Ansho line,___,34.954293,137.091072
+791,1,Ansho line,____,34.952517,137.09244
+792,1,Ansho line,__,34.948681,137.09643
+793,1,Ansho line,_____,34.94606,137.098987
+794,1,Ansho line,________,34.943428,137.092823
+795,1,Ansho line,__,34.933037,137.111322
+796,1,Ansho line,__,34.927249,137.111019
+797,1,Ansho line,__,34.924381,137.106698
+799,1,Ansho line,__,34.927249,137.111019
+800,1,Ansho line,__,34.933037,137.111322
+801,1,Ansho line,________,34.943428,137.092823
+802,1,Ansho line,_____,34.94606,137.098987
+803,1,Ansho line,__,34.948681,137.09643
+804,1,Ansho line,____,34.952517,137.09244
+805,1,Ansho line,___,34.954293,137.091072
+806,1,Ansho line,____,34.95581,137.089513
+807,1,Ansho line,____,34.956826,137.088448
+808,1,Ansho line,_____,34.958118,137.089879
+809,1,Ansho line,_____,34.95563,137.093866
+810,1,Ansho line,_____,34.954122,137.097439
+811,1,Ansho line,__,34.954416,137.102561
+812,1,Ansho line,__,34.95381,137.100411
+813,1,Ansho line,__________,34.952007,137.097015
+814,1,Ansho line,____,34.952517,137.09244
+815,1,Ansho line,__________,34.952007,137.097015
+816,1,Ansho line,__,34.954416,137.102561
+817,1,Ansho line,__,34.95381,137.100411
+818,1,Ansho line,_____,34.954122,137.097439
+819,1,Ansho line,_____,34.95563,137.093866
+820,1,Ansho line,_____,34.959266,137.087528
+821,1,Ansho line,____,34.956826,137.088448
+822,1,Ansho line,____,34.95581,137.089513
+823,1,Ansho line,___,34.954293,137.091072
+824,1,Ansho line,____,34.952517,137.09244
+825,1,Ansho line,__,34.948681,137.09643
+826,1,Ansho line,_____,34.94606,137.098987
+827,1,Ansho line,________,34.943428,137.092823
+828,1,Ansho line,__,34.933037,137.111322
+829,1,Ansho line,__,34.927249,137.111019
+830,1,Ansho line,__,34.924381,137.106698
+832,1,Ansho line,__,34.927249,137.111019
+833,1,Ansho line,__,34.933037,137.111322
+834,1,Ansho line,________,34.943428,137.092823
+835,1,Ansho line,_____,34.94606,137.098987
+836,1,Ansho line,__,34.948681,137.09643
+837,1,Ansho line,____,34.952517,137.09244
+838,1,Ansho line,___,34.954293,137.091072
+839,1,Ansho line,____,34.95581,137.089513
+840,1,Ansho line,____,34.956826,137.088448
+841,1,Ansho line,_____,34.958118,137.089879
+842,1,Ansho line,_____,34.95563,137.093866
+843,1,Ansho line,_____,34.954122,137.097439
+844,1,Ansho line,__,34.954416,137.102561
+845,1,Ansho line,__,34.95381,137.100411
+846,1,Ansho line,__________,34.952007,137.097015
+847,1,Ansho line,____,34.952517,137.09244
+848,1,Ansho line,__________,34.952007,137.097015
+849,1,Ansho line,__,34.954416,137.102561
+850,1,Ansho line,__,34.95381,137.100411
+851,1,Ansho line,_____,34.954122,137.097439
+852,1,Ansho line,_____,34.95563,137.093866
+853,1,Ansho line,_____,34.959266,137.087528
+854,1,Ansho line,____,34.956826,137.088448
+855,1,Ansho line,____,34.95581,137.089513
+856,1,Ansho line,___,34.954293,137.091072
+857,1,Ansho line,____,34.952517,137.09244
+858,1,Ansho line,__,34.948681,137.09643
+859,1,Ansho line,_____,34.94606,137.098987
+860,1,Ansho line,________,34.943428,137.092823
+861,1,Ansho line,__,34.933037,137.111322
+862,1,Ansho line,__,34.927249,137.111019
+863,1,Ansho line,__,34.924381,137.106698
+865,1,Ansho line,__,34.927249,137.111019
+866,1,Ansho line,__,34.933037,137.111322
+867,1,Ansho line,________,34.943428,137.092823
+868,1,Ansho line,_____,34.94606,137.098987
+869,1,Ansho line,__,34.948681,137.09643
+870,1,Ansho line,____,34.952517,137.09244
+871,1,Ansho line,___,34.954293,137.091072
+872,1,Ansho line,____,34.95581,137.089513
+873,1,Ansho line,____,34.956826,137.088448
+874,1,Ansho line,_____,34.958118,137.089879
+875,1,Ansho line,_____,34.95563,137.093866
+876,1,Ansho line,_____,34.954122,137.097439
+877,1,Ansho line,__,34.954416,137.102561
+878,1,Ansho line,__,34.95381,137.100411
+879,1,Ansho line,__________,34.952007,137.097015
+880,1,Ansho line,____,34.952517,137.09244
+881,1,Ansho line,__________,34.952007,137.097015
+882,1,Ansho line,__,34.954416,137.102561
+883,1,Ansho line,__,34.95381,137.100411
+884,1,Ansho line,_____,34.954122,137.097439
+885,1,Ansho line,_____,34.95563,137.093866
+886,1,Ansho line,_____,34.959266,137.087528
+887,1,Ansho line,____,34.956826,137.088448
+888,1,Ansho line,____,34.95581,137.089513
+889,1,Ansho line,___,34.954293,137.091072
+890,1,Ansho line,____,34.952517,137.09244
+891,1,Ansho line,__,34.948681,137.09643
+892,1,Ansho line,_____,34.94606,137.098987
+893,1,Ansho line,________,34.943428,137.092823
+894,1,Ansho line,__,34.933037,137.111322
+895,1,Ansho line,__,34.927249,137.111019
+896,1,Ansho line,__,34.924381,137.106698
+897,2,Sakurai line,____,34.904798,137.078781
+898,2,Sakurai line,______,34.900244,137.086093
+899,2,Sakurai line,___,34.895035,137.080472
+900,2,Sakurai line,___,34.895264,137.085519
+901,2,Sakurai line,__,34.896298,137.090954
+902,2,Sakurai line,__,34.898975,137.090605
+903,2,Sakurai line,__,34.903753,137.092096
+904,2,Sakurai line,__,34.909215,137.092606
+905,2,Sakurai line,______,34.91247,137.092134
+906,2,Sakurai line,____,34.916622,137.090396
+907,2,Sakurai line,___,34.917977,137.087976
+908,2,Sakurai line,____,34.919112,137.091769
+909,2,Sakurai line,____,34.921769,137.093657
+910,2,Sakurai line,___,34.925158,137.093432
+911,2,Sakurai line,____,34.928186,137.093099
+912,2,Sakurai line,_____,34.933844,137.094655
+913,2,Sakurai line,___,34.93643,137.091463
+914,2,Sakurai line,______,34.940746,137.078221
+916,2,Sakurai line,___,34.93643,137.091463
+917,2,Sakurai line,_____,34.933844,137.094655
+918,2,Sakurai line,____,34.928186,137.093099
+919,2,Sakurai line,___,34.925158,137.093432
+920,2,Sakurai line,____,34.921769,137.093657
+921,2,Sakurai line,____,34.919112,137.091769
+922,2,Sakurai line,___,34.917977,137.087976
+923,2,Sakurai line,____,34.91693,137.089387
+924,2,Sakurai line,______,34.91247,137.092134
+925,2,Sakurai line,__,34.909215,137.092606
+926,2,Sakurai line,__,34.903753,137.092096
+927,2,Sakurai line,__,34.898975,137.090605
+928,2,Sakurai line,__,34.896298,137.090954
+929,2,Sakurai line,___,34.895264,137.085519
+930,2,Sakurai line,___,34.895035,137.080472
+931,2,Sakurai line,______,34.900244,137.086093
+932,2,Sakurai line,____,34.905924,137.077178
+934,2,Sakurai line,______,34.900244,137.086093
+935,2,Sakurai line,___,34.895035,137.080472
+936,2,Sakurai line,___,34.895264,137.085519
+937,2,Sakurai line,__,34.896298,137.090954
+938,2,Sakurai line,__,34.898975,137.090605
+939,2,Sakurai line,__,34.903753,137.092096
+940,2,Sakurai line,__,34.909215,137.092606
+941,2,Sakurai line,______,34.91247,137.092134
+942,2,Sakurai line,____,34.916622,137.090396
+943,2,Sakurai line,___,34.917977,137.087976
+944,2,Sakurai line,____,34.919112,137.091769
+945,2,Sakurai line,____,34.921769,137.093657
+946,2,Sakurai line,___,34.925158,137.093432
+947,2,Sakurai line,____,34.928186,137.093099
+948,2,Sakurai line,_____,34.933844,137.094655
+949,2,Sakurai line,___,34.937883,137.09452
+950,2,Sakurai line,________,34.943428,137.092823
+951,2,Sakurai line,___,34.93643,137.091463
+952,2,Sakurai line,____,34.934449,137.088926
+953,2,Sakurai line,____,34.934717,137.086222
+954,2,Sakurai line,______,34.940746,137.078221
+956,2,Sakurai line,____,34.934717,137.086222
+957,2,Sakurai line,____,34.934449,137.088926
+958,2,Sakurai line,___,34.93643,137.091463
+959,2,Sakurai line,___,34.937883,137.09452
+960,2,Sakurai line,________,34.943428,137.092823
+961,2,Sakurai line,_____,34.933844,137.094655
+962,2,Sakurai line,____,34.928186,137.093099
+963,2,Sakurai line,___,34.925158,137.093432
+964,2,Sakurai line,____,34.921769,137.093657
+965,2,Sakurai line,____,34.919112,137.091769
+966,2,Sakurai line,___,34.917977,137.087976
+967,2,Sakurai line,____,34.91693,137.089387
+968,2,Sakurai line,______,34.91247,137.092134
+969,2,Sakurai line,__,34.909215,137.092606
+970,2,Sakurai line,__,34.903753,137.092096
+971,2,Sakurai line,__,34.898975,137.090605
+972,2,Sakurai line,__,34.896298,137.090954
+973,2,Sakurai line,___,34.895264,137.085519
+974,2,Sakurai line,___,34.895035,137.080472
+975,2,Sakurai line,______,34.900244,137.086093
+976,2,Sakurai line,____,34.905924,137.077178
+978,2,Sakurai line,______,34.900244,137.086093
+979,2,Sakurai line,___,34.895035,137.080472
+980,2,Sakurai line,___,34.895264,137.085519
+981,2,Sakurai line,__,34.896298,137.090954
+982,2,Sakurai line,__,34.898975,137.090605
+983,2,Sakurai line,__,34.903753,137.092096
+984,2,Sakurai line,__,34.909215,137.092606
+985,2,Sakurai line,______,34.91247,137.092134
+986,2,Sakurai line,____,34.916622,137.090396
+987,2,Sakurai line,___,34.917977,137.087976
+988,2,Sakurai line,____,34.919112,137.091769
+989,2,Sakurai line,____,34.921769,137.093657
+990,2,Sakurai line,___,34.925158,137.093432
+991,2,Sakurai line,____,34.928186,137.093099
+992,2,Sakurai line,_____,34.933844,137.094655
+993,2,Sakurai line,___,34.937883,137.09452
+994,2,Sakurai line,________,34.943428,137.092823
+995,2,Sakurai line,___,34.93643,137.091463
+996,2,Sakurai line,____,34.934449,137.088926
+997,2,Sakurai line,____,34.934717,137.086222
+998,2,Sakurai line,______,34.940746,137.078221
+1000,2,Sakurai line,____,34.934717,137.086222
+1001,2,Sakurai line,____,34.934449,137.088926
+1002,2,Sakurai line,___,34.93643,137.091463
+1003,2,Sakurai line,___,34.937883,137.09452
+1004,2,Sakurai line,________,34.943428,137.092823
+1005,2,Sakurai line,_____,34.933844,137.094655
+1006,2,Sakurai line,____,34.928186,137.093099
+1007,2,Sakurai line,___,34.925158,137.093432
+1008,2,Sakurai line,____,34.921769,137.093657
+1009,2,Sakurai line,____,34.919112,137.091769
+1010,2,Sakurai line,___,34.917977,137.087976
+1011,2,Sakurai line,____,34.91693,137.089387
+1012,2,Sakurai line,______,34.91247,137.092134
+1013,2,Sakurai line,__,34.909215,137.092606
+1014,2,Sakurai line,__,34.903753,137.092096
+1015,2,Sakurai line,__,34.898975,137.090605
+1016,2,Sakurai line,__,34.896298,137.090954
+1017,2,Sakurai line,___,34.895264,137.085519
+1018,2,Sakurai line,___,34.895035,137.080472
+1019,2,Sakurai line,______,34.900244,137.086093
+1020,2,Sakurai line,____,34.905924,137.077178
+1022,2,Sakurai line,______,34.900244,137.086093
+1023,2,Sakurai line,___,34.895035,137.080472
+1024,2,Sakurai line,___,34.895264,137.085519
+1025,2,Sakurai line,__,34.896298,137.090954
+1026,2,Sakurai line,__,34.898975,137.090605
+1027,2,Sakurai line,__,34.903753,137.092096
+1028,2,Sakurai line,__,34.909215,137.092606
+1029,2,Sakurai line,______,34.91247,137.092134
+1030,2,Sakurai line,____,34.916622,137.090396
+1031,2,Sakurai line,___,34.917977,137.087976
+1032,2,Sakurai line,____,34.919112,137.091769
+1033,2,Sakurai line,____,34.921769,137.093657
+1034,2,Sakurai line,___,34.925158,137.093432
+1035,2,Sakurai line,____,34.928186,137.093099
+1036,2,Sakurai line,_____,34.933844,137.094655
+1037,2,Sakurai line,___,34.937883,137.09452
+1038,2,Sakurai line,________,34.943428,137.092823
+1039,2,Sakurai line,___,34.93643,137.091463
+1040,2,Sakurai line,____,34.934449,137.088926
+1041,2,Sakurai line,____,34.934717,137.086222
+1042,2,Sakurai line,______,34.940746,137.078221
+1044,2,Sakurai line,____,34.934717,137.086222
+1045,2,Sakurai line,____,34.934449,137.088926
+1046,2,Sakurai line,___,34.93643,137.091463
+1047,2,Sakurai line,___,34.937883,137.09452
+1048,2,Sakurai line,________,34.943428,137.092823
+1049,2,Sakurai line,_____,34.933844,137.094655
+1050,2,Sakurai line,____,34.928186,137.093099
+1051,2,Sakurai line,___,34.925158,137.093432
+1052,2,Sakurai line,____,34.921769,137.093657
+1053,2,Sakurai line,____,34.919112,137.091769
+1054,2,Sakurai line,___,34.917977,137.087976
+1055,2,Sakurai line,____,34.91693,137.089387
+1056,2,Sakurai line,______,34.91247,137.092134
+1057,2,Sakurai line,__,34.909215,137.092606
+1058,2,Sakurai line,__,34.903753,137.092096
+1059,2,Sakurai line,__,34.898975,137.090605
+1060,2,Sakurai line,__,34.896298,137.090954
+1061,2,Sakurai line,___,34.895264,137.085519
+1062,2,Sakurai line,___,34.895035,137.080472
+1063,2,Sakurai line,______,34.900244,137.086093
+1064,2,Sakurai line,____,34.905924,137.077178
+1066,2,Sakurai line,______,34.900244,137.086093
+1067,2,Sakurai line,___,34.895035,137.080472
+1068,2,Sakurai line,___,34.895264,137.085519
+1069,2,Sakurai line,__,34.896298,137.090954
+1070,2,Sakurai line,__,34.898975,137.090605
+1071,2,Sakurai line,__,34.903753,137.092096
+1072,2,Sakurai line,__,34.909215,137.092606
+1073,2,Sakurai line,______,34.91247,137.092134
+1074,2,Sakurai line,____,34.916622,137.090396
+1075,2,Sakurai line,___,34.917977,137.087976
+1076,2,Sakurai line,____,34.919112,137.091769
+1077,2,Sakurai line,____,34.921769,137.093657
+1078,2,Sakurai line,___,34.925158,137.093432
+1079,2,Sakurai line,____,34.928186,137.093099
+1080,2,Sakurai line,_____,34.933844,137.094655
+1081,2,Sakurai line,___,34.937883,137.09452
+1082,2,Sakurai line,________,34.943428,137.092823
+1083,2,Sakurai line,___,34.93643,137.091463
+1084,2,Sakurai line,____,34.934449,137.088926
+1085,2,Sakurai line,____,34.934717,137.086222
+1086,2,Sakurai line,______,34.940746,137.078221
+1088,2,Sakurai line,____,34.934717,137.086222
+1089,2,Sakurai line,____,34.934449,137.088926
+1090,2,Sakurai line,___,34.93643,137.091463
+1091,2,Sakurai line,___,34.937883,137.09452
+1092,2,Sakurai line,________,34.943428,137.092823
+1093,2,Sakurai line,_____,34.933844,137.094655
+1094,2,Sakurai line,____,34.928186,137.093099
+1095,2,Sakurai line,___,34.925158,137.093432
+1096,2,Sakurai line,____,34.921769,137.093657
+1097,2,Sakurai line,____,34.919112,137.091769
+1098,2,Sakurai line,___,34.917977,137.087976
+1099,2,Sakurai line,____,34.91693,137.089387
+1100,2,Sakurai line,______,34.91247,137.092134
+1101,2,Sakurai line,__,34.909215,137.092606
+1102,2,Sakurai line,__,34.903753,137.092096
+1103,2,Sakurai line,__,34.898975,137.090605
+1104,2,Sakurai line,__,34.896298,137.090954
+1105,2,Sakurai line,___,34.895264,137.085519
+1106,2,Sakurai line,___,34.895035,137.080472
+1107,2,Sakurai line,______,34.900244,137.086093
+1108,2,Sakurai line,____,34.905924,137.077178
+1110,2,Sakurai line,______,34.900244,137.086093
+1111,2,Sakurai line,___,34.895035,137.080472
+1112,2,Sakurai line,___,34.895264,137.085519
+1113,2,Sakurai line,__,34.896298,137.090954
+1114,2,Sakurai line,__,34.898975,137.090605
+1115,2,Sakurai line,__,34.903753,137.092096
+1116,2,Sakurai line,__,34.909215,137.092606
+1117,2,Sakurai line,______,34.91247,137.092134
+1118,2,Sakurai line,____,34.916622,137.090396
+1119,2,Sakurai line,___,34.917977,137.087976
+1120,2,Sakurai line,____,34.919112,137.091769
+1121,2,Sakurai line,____,34.921769,137.093657
+1122,2,Sakurai line,___,34.925158,137.093432
+1123,2,Sakurai line,____,34.928186,137.093099
+1124,2,Sakurai line,_____,34.933844,137.094655
+1125,2,Sakurai line,___,34.937883,137.09452
+1126,2,Sakurai line,________,34.943428,137.092823
+1127,2,Sakurai line,___,34.93643,137.091463
+1128,2,Sakurai line,____,34.934449,137.088926
+1129,2,Sakurai line,____,34.934717,137.086222
+1130,2,Sakurai line,______,34.940746,137.078221
+1132,2,Sakurai line,___,34.93643,137.091463
+1133,2,Sakurai line,_____,34.933844,137.094655
+1134,2,Sakurai line,____,34.928186,137.093099
+1135,2,Sakurai line,___,34.925158,137.093432
+1136,2,Sakurai line,____,34.921769,137.093657
+1137,2,Sakurai line,____,34.919112,137.091769
+1138,2,Sakurai line,___,34.917977,137.087976
+1139,2,Sakurai line,____,34.91693,137.089387
+1140,2,Sakurai line,______,34.91247,137.092134
+1141,2,Sakurai line,__,34.909215,137.092606
+1142,2,Sakurai line,__,34.903753,137.092096
+1143,2,Sakurai line,__,34.898975,137.090605
+1144,2,Sakurai line,__,34.896298,137.090954
+1145,2,Sakurai line,___,34.895264,137.085519
+1146,2,Sakurai line,___,34.895035,137.080472
+1147,2,Sakurai line,______,34.900244,137.086093
+1148,2,Sakurai line,____,34.905924,137.077178
+1149,3,Southern line,______,34.90031,137.015614
+1150,3,Southern line,__,34.904584,137.020494
+1151,3,Southern line,_____,34.905715,137.02444
+1152,3,Southern line,__,34.902352,137.028463
+1153,3,Southern line,___,34.900064,137.032911
+1154,3,Southern line,___,34.898981,137.036875
+1155,3,Southern line,__,34.895844,137.04711
+1156,3,Southern line,__,34.899927,137.047756
+1157,3,Southern line,___,34.905152,137.051224
+1158,3,Southern line,________,34.912923,137.044331
+1159,3,Southern line,_____,34.923304,137.047308
+1160,3,Southern line,___,34.926051,137.047574
+1161,3,Southern line,___,34.931801,137.052362
+1162,3,Southern line,_____,34.92991,137.061801
+1163,3,Southern line,______,34.929114,137.065296
+1164,3,Southern line,___,34.936432,137.063069
+1165,3,Southern line,__,34.940418,137.065296
+1166,3,Southern line,___,34.943536,137.069101
+1167,3,Southern line,________,34.945917,137.071971
+1168,3,Southern line,____,34.945451,137.07537
+1169,3,Southern line,______,34.940746,137.078221
+1171,3,Southern line,____,34.945451,137.07537
+1172,3,Southern line,________,34.945917,137.071971
+1173,3,Southern line,___,34.943536,137.069101
+1174,3,Southern line,__,34.940418,137.065296
+1175,3,Southern line,___,34.936432,137.063069
+1176,3,Southern line,______,34.929114,137.065296
+1177,3,Southern line,_____,34.92991,137.061801
+1178,3,Southern line,___,34.931801,137.052362
+1179,3,Southern line,___,34.924551,137.047338
+1180,3,Southern line,_____,34.923304,137.047308
+1181,3,Southern line,________,34.912923,137.044331
+1182,3,Southern line,___,34.905152,137.051224
+1183,3,Southern line,__,34.899927,137.047756
+1184,3,Southern line,__,34.895844,137.04711
+1185,3,Southern line,___,34.898981,137.036875
+1186,3,Southern line,___,34.900064,137.032911
+1187,3,Southern line,__,34.902352,137.028463
+1188,3,Southern line,_____,34.905715,137.02444
+1189,3,Southern line,__,34.904584,137.020494
+1190,3,Southern line,______,34.901766,137.01296
+1192,3,Southern line,__,34.904584,137.020494
+1193,3,Southern line,_____,34.905715,137.02444
+1194,3,Southern line,__,34.902352,137.028463
+1195,3,Southern line,___,34.900064,137.032911
+1196,3,Southern line,___,34.898981,137.036875
+1197,3,Southern line,__,34.895844,137.04711
+1198,3,Southern line,__,34.899927,137.047756
+1199,3,Southern line,___,34.905152,137.051224
+1200,3,Southern line,________,34.912923,137.044331
+1201,3,Southern line,_____,34.923304,137.047308
+1202,3,Southern line,___,34.926051,137.047574
+1203,3,Southern line,___,34.931801,137.052362
+1204,3,Southern line,_____,34.92991,137.061801
+1205,3,Southern line,______,34.929114,137.065296
+1206,3,Southern line,___,34.936432,137.063069
+1207,3,Southern line,__,34.940418,137.065296
+1208,3,Southern line,___,34.943536,137.069101
+1209,3,Southern line,________,34.945917,137.071971
+1210,3,Southern line,____,34.945451,137.07537
+1211,3,Southern line,______,34.940746,137.078221
+1213,3,Southern line,____,34.945451,137.07537
+1214,3,Southern line,________,34.945917,137.071971
+1215,3,Southern line,___,34.943536,137.069101
+1216,3,Southern line,__,34.940418,137.065296
+1217,3,Southern line,___,34.936432,137.063069
+1218,3,Southern line,______,34.929114,137.065296
+1219,3,Southern line,_____,34.92991,137.061801
+1220,3,Southern line,___,34.931801,137.052362
+1221,3,Southern line,___,34.924551,137.047338
+1222,3,Southern line,_____,34.923304,137.047308
+1223,3,Southern line,________,34.912923,137.044331
+1224,3,Southern line,___,34.905152,137.051224
+1225,3,Southern line,__,34.899927,137.047756
+1226,3,Southern line,__,34.895844,137.04711
+1227,3,Southern line,___,34.898981,137.036875
+1228,3,Southern line,___,34.900064,137.032911
+1229,3,Southern line,__,34.902352,137.028463
+1230,3,Southern line,_____,34.905715,137.02444
+1231,3,Southern line,__,34.904584,137.020494
+1232,3,Southern line,______,34.901766,137.01296
+1234,3,Southern line,__,34.904584,137.020494
+1235,3,Southern line,_____,34.905715,137.02444
+1236,3,Southern line,__,34.902352,137.028463
+1237,3,Southern line,___,34.900064,137.032911
+1238,3,Southern line,___,34.898981,137.036875
+1239,3,Southern line,__,34.895844,137.04711
+1240,3,Southern line,__,34.899927,137.047756
+1241,3,Southern line,___,34.905152,137.051224
+1242,3,Southern line,________,34.912923,137.044331
+1243,3,Southern line,_____,34.923304,137.047308
+1244,3,Southern line,___,34.926051,137.047574
+1245,3,Southern line,___,34.931801,137.052362
+1246,3,Southern line,_____,34.92991,137.061801
+1247,3,Southern line,______,34.929114,137.065296
+1248,3,Southern line,___,34.936432,137.063069
+1249,3,Southern line,__,34.940418,137.065296
+1250,3,Southern line,___,34.943536,137.069101
+1251,3,Southern line,________,34.945917,137.071971
+1252,3,Southern line,____,34.945451,137.07537
+1253,3,Southern line,______,34.940746,137.078221
+1255,3,Southern line,____,34.945451,137.07537
+1256,3,Southern line,________,34.945917,137.071971
+1257,3,Southern line,___,34.943536,137.069101
+1258,3,Southern line,__,34.940418,137.065296
+1259,3,Southern line,___,34.936432,137.063069
+1260,3,Southern line,______,34.929114,137.065296
+1261,3,Southern line,_____,34.92991,137.061801
+1262,3,Southern line,___,34.931801,137.052362
+1263,3,Southern line,___,34.924551,137.047338
+1264,3,Southern line,_____,34.923304,137.047308
+1265,3,Southern line,________,34.912923,137.044331
+1266,3,Southern line,___,34.905152,137.051224
+1267,3,Southern line,__,34.899927,137.047756
+1268,3,Southern line,__,34.895844,137.04711
+1269,3,Southern line,___,34.898981,137.036875
+1270,3,Southern line,___,34.900064,137.032911
+1271,3,Southern line,__,34.902352,137.028463
+1272,3,Southern line,_____,34.905715,137.02444
+1273,3,Southern line,__,34.904584,137.020494
+1274,3,Southern line,______,34.901766,137.01296
+1276,3,Southern line,__,34.904584,137.020494
+1277,3,Southern line,_____,34.905715,137.02444
+1278,3,Southern line,__,34.902352,137.028463
+1279,3,Southern line,___,34.900064,137.032911
+1280,3,Southern line,___,34.898981,137.036875
+1281,3,Southern line,__,34.895844,137.04711
+1282,3,Southern line,__,34.899927,137.047756
+1283,3,Southern line,___,34.905152,137.051224
+1284,3,Southern line,________,34.912923,137.044331
+1285,3,Southern line,_____,34.923304,137.047308
+1286,3,Southern line,___,34.926051,137.047574
+1287,3,Southern line,___,34.931801,137.052362
+1288,3,Southern line,_____,34.92991,137.061801
+1289,3,Southern line,______,34.929114,137.065296
+1290,3,Southern line,___,34.936432,137.063069
+1291,3,Southern line,__,34.940418,137.065296
+1292,3,Southern line,___,34.943536,137.069101
+1293,3,Southern line,________,34.945917,137.071971
+1294,3,Southern line,____,34.945451,137.07537
+1295,3,Southern line,______,34.940746,137.078221
+1297,3,Southern line,____,34.945451,137.07537
+1298,3,Southern line,________,34.945917,137.071971
+1299,3,Southern line,___,34.943536,137.069101
+1300,3,Southern line,__,34.940418,137.065296
+1301,3,Southern line,___,34.936432,137.063069
+1302,3,Southern line,______,34.929114,137.065296
+1303,3,Southern line,_____,34.92991,137.061801
+1304,3,Southern line,___,34.931801,137.052362
+1305,3,Southern line,___,34.924551,137.047338
+1306,3,Southern line,_____,34.923304,137.047308
+1307,3,Southern line,________,34.912923,137.044331
+1308,3,Southern line,___,34.905152,137.051224
+1309,3,Southern line,__,34.899927,137.047756
+1310,3,Southern line,__,34.895844,137.04711
+1311,3,Southern line,___,34.898981,137.036875
+1312,3,Southern line,___,34.900064,137.032911
+1313,3,Southern line,__,34.902352,137.028463
+1314,3,Southern line,_____,34.905715,137.02444
+1315,3,Southern line,__,34.904584,137.020494
+1316,3,Southern line,______,34.901766,137.01296
+1318,3,Southern line,__,34.904584,137.020494
+1319,3,Southern line,_____,34.905715,137.02444
+1320,3,Southern line,__,34.902352,137.028463
+1321,3,Southern line,___,34.900064,137.032911
+1322,3,Southern line,___,34.898981,137.036875
+1323,3,Southern line,__,34.895844,137.04711
+1324,3,Southern line,__,34.899927,137.047756
+1325,3,Southern line,___,34.905152,137.051224
+1326,3,Southern line,________,34.912923,137.044331
+1327,3,Southern line,_____,34.923304,137.047308
+1328,3,Southern line,___,34.926051,137.047574
+1329,3,Southern line,___,34.931801,137.052362
+1330,3,Southern line,_____,34.92991,137.061801
+1331,3,Southern line,______,34.929114,137.065296
+1332,3,Southern line,___,34.936432,137.063069
+1333,3,Southern line,__,34.940418,137.065296
+1334,3,Southern line,___,34.943536,137.069101
+1335,3,Southern line,________,34.945917,137.071971
+1336,3,Southern line,____,34.945451,137.07537
+1337,3,Southern line,______,34.940746,137.078221
+1339,3,Southern line,____,34.945451,137.07537
+1340,3,Southern line,________,34.945917,137.071971
+1341,3,Southern line,___,34.943536,137.069101
+1342,3,Southern line,__,34.940418,137.065296
+1343,3,Southern line,___,34.936432,137.063069
+1344,3,Southern line,______,34.929114,137.065296
+1345,3,Southern line,_____,34.92991,137.061801
+1346,3,Southern line,___,34.931801,137.052362
+1347,3,Southern line,___,34.924551,137.047338
+1348,3,Southern line,_____,34.923304,137.047308
+1349,3,Southern line,________,34.912923,137.044331
+1350,3,Southern line,___,34.905152,137.051224
+1351,3,Southern line,__,34.899927,137.047756
+1352,3,Southern line,__,34.895844,137.04711
+1353,3,Southern line,___,34.898981,137.036875
+1354,3,Southern line,___,34.900064,137.032911
+1355,3,Southern line,__,34.902352,137.028463
+1356,3,Southern line,_____,34.905715,137.02444
+1357,3,Southern line,__,34.904584,137.020494
+1358,3,Southern line,______,34.901766,137.01296
+1360,3,Southern line,__,34.904584,137.020494
+1361,3,Southern line,_____,34.905715,137.02444
+1362,3,Southern line,__,34.902352,137.028463
+1363,3,Southern line,___,34.900064,137.032911
+1364,3,Southern line,___,34.898981,137.036875
+1365,3,Southern line,__,34.895844,137.04711
+1366,3,Southern line,__,34.899927,137.047756
+1367,3,Southern line,___,34.905152,137.051224
+1368,3,Southern line,________,34.912923,137.044331
+1369,3,Southern line,_____,34.923304,137.047308
+1370,3,Southern line,___,34.926051,137.047574
+1371,3,Southern line,___,34.931801,137.052362
+1372,3,Southern line,_____,34.92991,137.061801
+1373,3,Southern line,______,34.929114,137.065296
+1374,3,Southern line,___,34.936432,137.063069
+1375,3,Southern line,__,34.940418,137.065296
+1376,3,Southern line,___,34.943536,137.069101
+1377,3,Southern line,________,34.945917,137.071971
+1378,3,Southern line,____,34.945451,137.07537
+1379,3,Southern line,______,34.940746,137.078221
+1381,3,Southern line,____,34.945451,137.07537
+1382,3,Southern line,________,34.945917,137.071971
+1383,3,Southern line,___,34.943536,137.069101
+1384,3,Southern line,__,34.940418,137.065296
+1385,3,Southern line,___,34.936432,137.063069
+1386,3,Southern line,______,34.929114,137.065296
+1387,3,Southern line,_____,34.92991,137.061801
+1388,3,Southern line,___,34.931801,137.052362
+1389,3,Southern line,___,34.924551,137.047338
+1390,3,Southern line,_____,34.923304,137.047308
+1391,3,Southern line,________,34.912923,137.044331
+1392,3,Southern line,___,34.905152,137.051224
+1393,3,Southern line,__,34.899927,137.047756
+1394,3,Southern line,__,34.895844,137.04711
+1395,3,Southern line,___,34.898981,137.036875
+1396,3,Southern line,___,34.900064,137.032911
+1397,3,Southern line,__,34.902352,137.028463
+1398,3,Southern line,_____,34.905715,137.02444
+1399,3,Southern line,__,34.904584,137.020494
+1400,3,Southern line,______,34.901766,137.01296
+1401,4,Takatana line_,__,34.942056,137.024853
+1402,4,Takatana line_,_____,34.941131,137.026669
+1403,4,Takatana line_,___,34.937969,137.031425
+1404,4,Takatana line_,__,34.934717,137.034308
+1405,4,Takatana line_,___,34.936797,137.036349
+1406,4,Takatana line_,__,34.942342,137.043677
+1407,4,Takatana line_,_____,34.944866,137.04597
+1408,4,Takatana line_,________,34.947346,137.0442
+1409,4,Takatana line_,____,34.948766,137.048414
+1410,4,Takatana line_,___,34.951154,137.052842
+1411,4,Takatana line_,___,34.95348,137.058738
+1412,4,Takatana line_,_____,34.95658,137.058064
+1413,4,Takatana line_,______,34.965676,137.06095
+1414,4,Takatana line_,________,34.969122,137.061044
+1415,4,Takatana line_,______,34.966304,137.066256
+1416,4,Takatana line_,____,34.963398,137.068503
+1417,4,Takatana line_,_______,34.959495,137.063552
+1418,4,Takatana line_,___,34.954733,137.067538
+1419,4,Takatana line_,___,34.949663,137.071835
+1420,4,Takatana line_,____,34.945451,137.07537
+1421,4,Takatana line_,______,34.940746,137.078221
+1423,4,Takatana line_,____,34.945451,137.07537
+1424,4,Takatana line_,___,34.949663,137.071835
+1425,4,Takatana line_,___,34.954733,137.067538
+1426,4,Takatana line_,_______,34.959495,137.063552
+1427,4,Takatana line_,____,34.963398,137.068503
+1428,4,Takatana line_,______,34.966304,137.066256
+1429,4,Takatana line_,________,34.969122,137.061044
+1430,4,Takatana line_,______,34.965676,137.06095
+1431,4,Takatana line_,_____,34.95658,137.058064
+1432,4,Takatana line_,___,34.952869,137.058367
+1433,4,Takatana line_,___,34.951154,137.052842
+1434,4,Takatana line_,____,34.948766,137.048414
+1435,4,Takatana line_,________,34.947346,137.0442
+1436,4,Takatana line_,_____,34.944866,137.04597
+1437,4,Takatana line_,__,34.942342,137.043677
+1438,4,Takatana line_,___,34.936797,137.036349
+1439,4,Takatana line_,__,34.934717,137.034308
+1440,4,Takatana line_,___,34.937969,137.031425
+1441,4,Takatana line_,_____,34.941131,137.026669
+1442,4,Takatana line_,_____,34.941166,137.023799
+1443,4,Takatana line_,__,34.942056,137.024853
+1444,4,Takatana line_,_____,34.941131,137.026669
+1445,4,Takatana line_,___,34.937969,137.031425
+1446,4,Takatana line_,__,34.934717,137.034308
+1447,4,Takatana line_,___,34.936797,137.036349
+1448,4,Takatana line_,__,34.942342,137.043677
+1449,4,Takatana line_,_____,34.944866,137.04597
+1450,4,Takatana line_,________,34.947346,137.0442
+1451,4,Takatana line_,____,34.948766,137.048414
+1452,4,Takatana line_,___,34.951154,137.052842
+1453,4,Takatana line_,___,34.95348,137.058738
+1454,4,Takatana line_,_____,34.95658,137.058064
+1455,4,Takatana line_,______,34.965676,137.06095
+1456,4,Takatana line_,________,34.969122,137.061044
+1457,4,Takatana line_,______,34.966304,137.066256
+1458,4,Takatana line_,____,34.963398,137.068503
+1459,4,Takatana line_,_______,34.959495,137.063552
+1460,4,Takatana line_,___,34.954733,137.067538
+1461,4,Takatana line_,___,34.949663,137.071835
+1462,4,Takatana line_,____,34.945451,137.07537
+1463,4,Takatana line_,______,34.940746,137.078221
+1465,4,Takatana line_,____,34.945451,137.07537
+1466,4,Takatana line_,___,34.949663,137.071835
+1467,4,Takatana line_,___,34.954733,137.067538
+1468,4,Takatana line_,_______,34.959495,137.063552
+1469,4,Takatana line_,____,34.963398,137.068503
+1470,4,Takatana line_,______,34.966304,137.066256
+1471,4,Takatana line_,________,34.969122,137.061044
+1472,4,Takatana line_,______,34.965676,137.06095
+1473,4,Takatana line_,_____,34.95658,137.058064
+1474,4,Takatana line_,___,34.952869,137.058367
+1475,4,Takatana line_,___,34.951154,137.052842
+1476,4,Takatana line_,____,34.948766,137.048414
+1477,4,Takatana line_,________,34.947346,137.0442
+1478,4,Takatana line_,_____,34.944866,137.04597
+1479,4,Takatana line_,__,34.942342,137.043677
+1480,4,Takatana line_,___,34.936797,137.036349
+1481,4,Takatana line_,__,34.934717,137.034308
+1482,4,Takatana line_,___,34.937969,137.031425
+1483,4,Takatana line_,_____,34.941131,137.026669
+1484,4,Takatana line_,_____,34.941166,137.023799
+1485,4,Takatana line_,__,34.942056,137.024853
+1486,4,Takatana line_,_____,34.941131,137.026669
+1487,4,Takatana line_,___,34.937969,137.031425
+1488,4,Takatana line_,__,34.934717,137.034308
+1489,4,Takatana line_,___,34.936797,137.036349
+1490,4,Takatana line_,__,34.942342,137.043677
+1491,4,Takatana line_,_____,34.944866,137.04597
+1492,4,Takatana line_,________,34.947346,137.0442
+1493,4,Takatana line_,____,34.948766,137.048414
+1494,4,Takatana line_,___,34.951154,137.052842
+1495,4,Takatana line_,___,34.95348,137.058738
+1496,4,Takatana line_,_____,34.95658,137.058064
+1497,4,Takatana line_,______,34.965676,137.06095
+1498,4,Takatana line_,________,34.969122,137.061044
+1499,4,Takatana line_,______,34.966304,137.066256
+1500,4,Takatana line_,____,34.963398,137.068503
+1501,4,Takatana line_,_______,34.959495,137.063552
+1502,4,Takatana line_,___,34.954733,137.067538
+1503,4,Takatana line_,___,34.949663,137.071835
+1504,4,Takatana line_,____,34.945451,137.07537
+1505,4,Takatana line_,______,34.940746,137.078221
+1507,4,Takatana line_,____,34.945451,137.07537
+1508,4,Takatana line_,___,34.949663,137.071835
+1509,4,Takatana line_,___,34.954733,137.067538
+1510,4,Takatana line_,_______,34.959495,137.063552
+1511,4,Takatana line_,____,34.963398,137.068503
+1512,4,Takatana line_,______,34.966304,137.066256
+1513,4,Takatana line_,________,34.969122,137.061044
+1514,4,Takatana line_,______,34.965676,137.06095
+1515,4,Takatana line_,_____,34.95658,137.058064
+1516,4,Takatana line_,___,34.952869,137.058367
+1517,4,Takatana line_,___,34.951154,137.052842
+1518,4,Takatana line_,____,34.948766,137.048414
+1519,4,Takatana line_,________,34.947346,137.0442
+1520,4,Takatana line_,_____,34.944866,137.04597
+1521,4,Takatana line_,__,34.942342,137.043677
+1522,4,Takatana line_,___,34.936797,137.036349
+1523,4,Takatana line_,__,34.934717,137.034308
+1524,4,Takatana line_,___,34.937969,137.031425
+1525,4,Takatana line_,_____,34.941131,137.026669
+1526,4,Takatana line_,_____,34.941166,137.023799
+1527,4,Takatana line_,__,34.942056,137.024853
+1528,4,Takatana line_,_____,34.941131,137.026669
+1529,4,Takatana line_,___,34.937969,137.031425
+1530,4,Takatana line_,__,34.934717,137.034308
+1531,4,Takatana line_,___,34.936797,137.036349
+1532,4,Takatana line_,__,34.942342,137.043677
+1533,4,Takatana line_,_____,34.944866,137.04597
+1534,4,Takatana line_,________,34.947346,137.0442
+1535,4,Takatana line_,____,34.948766,137.048414
+1536,4,Takatana line_,___,34.951154,137.052842
+1537,4,Takatana line_,___,34.95348,137.058738
+1538,4,Takatana line_,_____,34.95658,137.058064
+1539,4,Takatana line_,______,34.965676,137.06095
+1540,4,Takatana line_,________,34.969122,137.061044
+1541,4,Takatana line_,______,34.966304,137.066256
+1542,4,Takatana line_,____,34.963398,137.068503
+1543,4,Takatana line_,_______,34.959495,137.063552
+1544,4,Takatana line_,___,34.954733,137.067538
+1545,4,Takatana line_,___,34.949663,137.071835
+1546,4,Takatana line_,____,34.945451,137.07537
+1547,4,Takatana line_,______,34.940746,137.078221
+1549,4,Takatana line_,____,34.945451,137.07537
+1550,4,Takatana line_,___,34.949663,137.071835
+1551,4,Takatana line_,___,34.954733,137.067538
+1552,4,Takatana line_,_______,34.959495,137.063552
+1553,4,Takatana line_,____,34.963398,137.068503
+1554,4,Takatana line_,______,34.966304,137.066256
+1555,4,Takatana line_,________,34.969122,137.061044
+1556,4,Takatana line_,______,34.965676,137.06095
+1557,4,Takatana line_,_____,34.95658,137.058064
+1558,4,Takatana line_,___,34.952869,137.058367
+1559,4,Takatana line_,___,34.951154,137.052842
+1560,4,Takatana line_,____,34.948766,137.048414
+1561,4,Takatana line_,________,34.947346,137.0442
+1562,4,Takatana line_,_____,34.944866,137.04597
+1563,4,Takatana line_,__,34.942342,137.043677
+1564,4,Takatana line_,___,34.936797,137.036349
+1565,4,Takatana line_,__,34.934717,137.034308
+1566,4,Takatana line_,___,34.937969,137.031425
+1567,4,Takatana line_,_____,34.941131,137.026669
+1568,4,Takatana line_,_____,34.941166,137.023799
+1569,4,Takatana line_,__,34.942056,137.024853
+1570,4,Takatana line_,_____,34.941131,137.026669
+1571,4,Takatana line_,___,34.937969,137.031425
+1572,4,Takatana line_,__,34.934717,137.034308
+1573,4,Takatana line_,___,34.936797,137.036349
+1574,4,Takatana line_,__,34.942342,137.043677
+1575,4,Takatana line_,_____,34.944866,137.04597
+1576,4,Takatana line_,________,34.947346,137.0442
+1577,4,Takatana line_,____,34.948766,137.048414
+1578,4,Takatana line_,___,34.951154,137.052842
+1579,4,Takatana line_,___,34.95348,137.058738
+1580,4,Takatana line_,_____,34.95658,137.058064
+1581,4,Takatana line_,______,34.965676,137.06095
+1582,4,Takatana line_,________,34.969122,137.061044
+1583,4,Takatana line_,______,34.966304,137.066256
+1584,4,Takatana line_,____,34.963398,137.068503
+1585,4,Takatana line_,_______,34.959495,137.063552
+1586,4,Takatana line_,___,34.954733,137.067538
+1587,4,Takatana line_,___,34.949663,137.071835
+1588,4,Takatana line_,____,34.945451,137.07537
+1589,4,Takatana line_,______,34.940746,137.078221
+1591,4,Takatana line_,____,34.945451,137.07537
+1592,4,Takatana line_,___,34.949663,137.071835
+1593,4,Takatana line_,___,34.954733,137.067538
+1594,4,Takatana line_,_______,34.959495,137.063552
+1595,4,Takatana line_,____,34.963398,137.068503
+1596,4,Takatana line_,______,34.966304,137.066256
+1597,4,Takatana line_,________,34.969122,137.061044
+1598,4,Takatana line_,______,34.965676,137.06095
+1599,4,Takatana line_,_____,34.95658,137.058064
+1600,4,Takatana line_,___,34.952869,137.058367
+1601,4,Takatana line_,___,34.951154,137.052842
+1602,4,Takatana line_,____,34.948766,137.048414
+1603,4,Takatana line_,________,34.947346,137.0442
+1604,4,Takatana line_,_____,34.944866,137.04597
+1605,4,Takatana line_,__,34.942342,137.043677
+1606,4,Takatana line_,___,34.936797,137.036349
+1607,4,Takatana line_,__,34.934717,137.034308
+1608,4,Takatana line_,___,34.937969,137.031425
+1609,4,Takatana line_,_____,34.941131,137.026669
+1610,4,Takatana line_,_____,34.941166,137.023799
+1611,4,Takatana line_,__,34.942056,137.024853
+1612,4,Takatana line_,_____,34.941131,137.026669
+1613,4,Takatana line_,___,34.937969,137.031425
+1614,4,Takatana line_,__,34.934717,137.034308
+1615,4,Takatana line_,___,34.936797,137.036349
+1616,4,Takatana line_,__,34.942342,137.043677
+1617,4,Takatana line_,_____,34.944866,137.04597
+1618,4,Takatana line_,________,34.947346,137.0442
+1619,4,Takatana line_,____,34.948766,137.048414
+1620,4,Takatana line_,___,34.951154,137.052842
+1621,4,Takatana line_,___,34.95348,137.058738
+1622,4,Takatana line_,_____,34.95658,137.058064
+1623,4,Takatana line_,______,34.965676,137.06095
+1624,4,Takatana line_,________,34.969122,137.061044
+1625,4,Takatana line_,______,34.966304,137.066256
+1626,4,Takatana line_,____,34.963398,137.068503
+1627,4,Takatana line_,_______,34.959495,137.063552
+1628,4,Takatana line_,___,34.954733,137.067538
+1629,4,Takatana line_,___,34.949663,137.071835
+1630,4,Takatana line_,____,34.945451,137.07537
+1631,4,Takatana line_,______,34.940746,137.078221
+1633,4,Takatana line_,____,34.945451,137.07537
+1634,4,Takatana line_,___,34.949663,137.071835
+1635,4,Takatana line_,___,34.954733,137.067538
+1636,4,Takatana line_,_______,34.959495,137.063552
+1637,4,Takatana line_,____,34.963398,137.068503
+1638,4,Takatana line_,______,34.966304,137.066256
+1639,4,Takatana line_,________,34.969122,137.061044
+1640,4,Takatana line_,______,34.965676,137.06095
+1641,4,Takatana line_,_____,34.95658,137.058064
+1642,4,Takatana line_,___,34.952869,137.058367
+1643,4,Takatana line_,___,34.951154,137.052842
+1644,4,Takatana line_,____,34.948766,137.048414
+1645,4,Takatana line_,________,34.947346,137.0442
+1646,4,Takatana line_,_____,34.944866,137.04597
+1647,4,Takatana line_,__,34.942342,137.043677
+1648,4,Takatana line_,___,34.936797,137.036349
+1649,4,Takatana line_,__,34.934717,137.034308
+1650,4,Takatana line_,___,34.937969,137.031425
+1651,4,Takatana line_,_____,34.941131,137.026669
+1652,4,Takatana line_,_____,34.941166,137.023799
+1653,4,Takatana line_,__,34.942056,137.024853
+1654,4,Takatana line_,_____,34.941131,137.026669
+1655,4,Takatana line_,___,34.937969,137.031425
+1656,4,Takatana line_,__,34.934717,137.034308
+1657,4,Takatana line_,___,34.936797,137.036349
+1658,4,Takatana line_,__,34.942342,137.043677
+1659,4,Takatana line_,_____,34.944866,137.04597
+1660,4,Takatana line_,________,34.947346,137.0442
+1661,4,Takatana line_,____,34.948766,137.048414
+1662,4,Takatana line_,___,34.951154,137.052842
+1663,4,Takatana line_,___,34.95348,137.058738
+1664,4,Takatana line_,_____,34.95658,137.058064
+1665,4,Takatana line_,______,34.965676,137.06095
+1666,4,Takatana line_,________,34.969122,137.061044
+1668,4,Takatana line_,_____,34.95658,137.058064
+1669,4,Takatana line_,___,34.952869,137.058367
+1670,4,Takatana line_,___,34.951154,137.052842
+1671,4,Takatana line_,____,34.948766,137.048414
+1672,4,Takatana line_,________,34.947346,137.0442
+1673,4,Takatana line_,_____,34.944866,137.04597
+1674,4,Takatana line_,__,34.942342,137.043677
+1675,4,Takatana line_,___,34.936797,137.036349
+1676,4,Takatana line_,__,34.934717,137.034308
+1677,4,Takatana line_,___,34.937969,137.031425
+1678,4,Takatana line_,_____,34.941131,137.026669
+1679,4,Takatana line_,_____,34.941166,137.023799
+1680,5,Eastern line_,________,34.985755,137.099022
+1681,5,Eastern line_,_____,34.985755,137.099022
+1682,5,Eastern line_,__,34.987115,137.102273
+1683,5,Eastern line_,_______,34.985328,137.105955
+1684,5,Eastern line_,____,34.983223,137.108951
+1685,5,Eastern line_,____,34.980968,137.111907
+1686,5,Eastern line_,_____,34.979081,137.114176
+1687,5,Eastern line_,____,34.976742,137.116727
+1688,5,Eastern line_,__,34.975553,137.119984
+1689,5,Eastern line_,____,34.969927,137.117614
+1690,5,Eastern line_,____,34.969228,137.113537
+1691,5,Eastern line_,___,34.964528,137.11479
+1692,5,Eastern line_,_______,34.967236,137.106852
+1693,5,Eastern line_,___,34.96615,137.099176
+1694,5,Eastern line_,________,34.970481,137.092525
+1695,5,Eastern line_,_____,34.966041,137.093539
+1696,5,Eastern line_,__,34.961671,137.094918
+1697,5,Eastern line_,___,34.957819,137.096549
+1698,5,Eastern line_,_____,34.95563,137.093866
+1699,5,Eastern line_,JR______,34.959266,137.087528
+1700,5,Eastern line_,JR___,34.958549,137.089317
+1701,5,Eastern line_,_____,34.95563,137.093866
+1702,5,Eastern line_,___,34.957819,137.096549
+1703,5,Eastern line_,__,34.961671,137.094918
+1704,5,Eastern line_,_____,34.966041,137.093539
+1705,5,Eastern line_,________,34.970481,137.092525
+1706,5,Eastern line_,___,34.96615,137.099176
+1707,5,Eastern line_,_______,34.967236,137.106852
+1708,5,Eastern line_,___,34.964528,137.11479
+1709,5,Eastern line_,____,34.969228,137.113537
+1710,5,Eastern line_,____,34.969927,137.117614
+1711,5,Eastern line_,__,34.975553,137.119984
+1712,5,Eastern line_,____,34.976742,137.116727
+1713,5,Eastern line_,_____,34.979081,137.114176
+1714,5,Eastern line_,____,34.980968,137.111907
+1715,5,Eastern line_,____,34.983223,137.108951
+1716,5,Eastern line_,_______,34.985328,137.105955
+1717,5,Eastern line_,__,34.987115,137.102273
+1718,5,Eastern line_,_____,34.985755,137.099022
+1719,5,Eastern line_,________,34.984513,137.097745
+1721,5,Eastern line_,_____,34.985755,137.099022
+1722,5,Eastern line_,__,34.987115,137.102273
+1723,5,Eastern line_,_______,34.985328,137.105955
+1724,5,Eastern line_,____,34.983223,137.108951
+1725,5,Eastern line_,____,34.980968,137.111907
+1726,5,Eastern line_,_____,34.979081,137.114176
+1727,5,Eastern line_,____,34.976742,137.116727
+1728,5,Eastern line_,__,34.975553,137.119984
+1729,5,Eastern line_,____,34.969927,137.117614
+1730,5,Eastern line_,____,34.969228,137.113537
+1731,5,Eastern line_,___,34.964528,137.11479
+1732,5,Eastern line_,_______,34.967236,137.106852
+1733,5,Eastern line_,___,34.96615,137.099176
+1734,5,Eastern line_,________,34.970481,137.092525
+1735,5,Eastern line_,_____,34.966041,137.093539
+1736,5,Eastern line_,__,34.961671,137.094918
+1737,5,Eastern line_,___,34.957819,137.096549
+1738,5,Eastern line_,_____,34.95563,137.093866
+1739,5,Eastern line_,JR___,34.959266,137.087528
+1741,5,Eastern line_,_____,34.95563,137.093866
+1742,5,Eastern line_,___,34.984513,137.097745
+1743,5,Eastern line_,__,34.957819,137.096549
+1744,5,Eastern line_,_____,34.961671,137.094918
+1745,5,Eastern line_,________,34.966041,137.093539
+1746,5,Eastern line_,___,34.970481,137.092525
+1747,5,Eastern line_,_______,34.96615,137.099176
+1748,5,Eastern line_,___,34.967236,137.106852
+1749,5,Eastern line_,____,34.964528,137.11479
+1750,5,Eastern line_,____,34.969228,137.113537
+1751,5,Eastern line_,__,34.969927,137.117614
+1752,5,Eastern line_,____,34.975553,137.119984
+1753,5,Eastern line_,_____,34.976742,137.116727
+1754,5,Eastern line_,____,34.979081,137.114176
+1755,5,Eastern line_,____,34.980968,137.111907
+1756,5,Eastern line_,_______,34.983223,137.108951
+1757,5,Eastern line_,__,34.985328,137.105955
+1758,5,Eastern line_,_____,34.987115,137.102273
+1759,5,Eastern line_,________,34.985755,137.099022
+1761,5,Eastern line_,_____,34.985755,137.099022
+1762,5,Eastern line_,__,34.987115,137.102273
+1763,5,Eastern line_,_______,34.985328,137.105955
+1764,5,Eastern line_,____,34.983223,137.108951
+1765,5,Eastern line_,____,34.980968,137.111907
+1766,5,Eastern line_,_____,34.979081,137.114176
+1767,5,Eastern line_,____,34.976742,137.116727
+1768,5,Eastern line_,__,34.975553,137.119984
+1769,5,Eastern line_,____,34.969927,137.117614
+1770,5,Eastern line_,____,34.969228,137.113537
+1771,5,Eastern line_,___,34.964528,137.11479
+1772,5,Eastern line_,_______,34.967236,137.106852
+1773,5,Eastern line_,___,34.96615,137.099176
+1774,5,Eastern line_,________,34.970481,137.092525
+1775,5,Eastern line_,_____,34.966041,137.093539
+1776,5,Eastern line_,__,34.961671,137.094918
+1777,5,Eastern line_,___,34.957819,137.096549
+1778,5,Eastern line_,_____,34.95563,137.093866
+1779,5,Eastern line_,JR______,34.959266,137.087528
+1780,5,Eastern line_,JR___,34.958549,137.089317
+1781,5,Eastern line_,_____,34.95563,137.093866
+1782,5,Eastern line_,___,34.957819,137.096549
+1783,5,Eastern line_,__,34.961671,137.094918
+1784,5,Eastern line_,_____,34.966041,137.093539
+1785,5,Eastern line_,________,34.970481,137.092525
+1786,5,Eastern line_,___,34.96615,137.099176
+1787,5,Eastern line_,_______,34.967236,137.106852
+1788,5,Eastern line_,___,34.964528,137.11479
+1789,5,Eastern line_,____,34.969228,137.113537
+1790,5,Eastern line_,____,34.969927,137.117614
+1791,5,Eastern line_,__,34.975553,137.119984
+1792,5,Eastern line_,____,34.976742,137.116727
+1793,5,Eastern line_,_____,34.979081,137.114176
+1794,5,Eastern line_,____,34.980968,137.111907
+1795,5,Eastern line_,____,34.983223,137.108951
+1796,5,Eastern line_,_______,34.985328,137.105955
+1797,5,Eastern line_,__,34.987115,137.102273
+1798,5,Eastern line_,_____,34.985755,137.099022
+1799,5,Eastern line_,________,34.985755,137.099022
+1801,5,Eastern line_,_____,34.985755,137.099022
+1802,5,Eastern line_,__,34.987115,137.102273
+1803,5,Eastern line_,_______,34.985328,137.105955
+1804,5,Eastern line_,____,34.983223,137.108951
+1805,5,Eastern line_,____,34.980968,137.111907
+1806,5,Eastern line_,_____,34.979081,137.114176
+1807,5,Eastern line_,____,34.976742,137.116727
+1808,5,Eastern line_,__,34.975553,137.119984
+1809,5,Eastern line_,____,34.969927,137.117614
+1810,5,Eastern line_,____,34.969228,137.113537
+1811,5,Eastern line_,___,34.964528,137.11479
+1812,5,Eastern line_,_______,34.967236,137.106852
+1813,5,Eastern line_,___,34.96615,137.099176
+1814,5,Eastern line_,________,34.970481,137.092525
+1815,5,Eastern line_,_____,34.966041,137.093539
+1816,5,Eastern line_,__,34.961671,137.094918
+1817,5,Eastern line_,___,34.957819,137.096549
+1818,5,Eastern line_,_____,34.95563,137.093866
+1819,5,Eastern line_,JR___,34.959266,137.087528
+1821,5,Eastern line_,_____,34.95563,137.093866
+1822,5,Eastern line_,___,34.957819,137.096549
+1823,5,Eastern line_,__,34.961671,137.094918
+1824,5,Eastern line_,_____,34.966041,137.093539
+1825,5,Eastern line_,________,34.970481,137.092525
+1826,5,Eastern line_,___,34.96615,137.099176
+1827,5,Eastern line_,_______,34.967236,137.106852
+1828,5,Eastern line_,___,34.964528,137.11479
+1829,5,Eastern line_,____,34.969228,137.113537
+1830,5,Eastern line_,____,34.969927,137.117614
+1831,5,Eastern line_,__,34.975553,137.119984
+1832,5,Eastern line_,____,34.976742,137.116727
+1833,5,Eastern line_,_____,34.979081,137.114176
+1834,5,Eastern line_,____,34.980968,137.111907
+1835,5,Eastern line_,____,34.983223,137.108951
+1836,5,Eastern line_,_______,34.985328,137.105955
+1837,5,Eastern line_,__,34.987115,137.102273
+1838,5,Eastern line_,_____,34.985755,137.099022
+1839,5,Eastern line_,________,34.985755,137.099022
+1841,5,Eastern line_,_____,34.985755,137.099022
+1842,5,Eastern line_,__,34.987115,137.102273
+1843,5,Eastern line_,_______,34.985328,137.105955
+1844,5,Eastern line_,____,34.983223,137.108951
+1845,5,Eastern line_,____,34.980968,137.111907
+1846,5,Eastern line_,_____,34.979081,137.114176
+1847,5,Eastern line_,____,34.976742,137.116727
+1848,5,Eastern line_,__,34.975553,137.119984
+1849,5,Eastern line_,____,34.969927,137.117614
+1850,5,Eastern line_,____,34.969228,137.113537
+1851,5,Eastern line_,___,34.964528,137.11479
+1852,5,Eastern line_,_______,34.967236,137.106852
+1853,5,Eastern line_,___,34.96615,137.099176
+1854,5,Eastern line_,________,34.970481,137.092525
+1855,5,Eastern line_,_____,34.966041,137.093539
+1856,5,Eastern line_,__,34.961671,137.094918
+1857,5,Eastern line_,___,34.957819,137.096549
+1858,5,Eastern line_,_____,34.95563,137.093866
+1859,5,Eastern line_,JR___,34.959266,137.087528
+1861,5,Eastern line_,_____,34.95563,137.093866
+1862,5,Eastern line_,___,34.957819,137.096549
+1863,5,Eastern line_,__,34.961671,137.094918
+1864,5,Eastern line_,_____,34.966041,137.093539
+1865,5,Eastern line_,________,34.970481,137.092525
+1866,5,Eastern line_,___,34.96615,137.099176
+1867,5,Eastern line_,_______,34.967236,137.106852
+1868,5,Eastern line_,___,34.964528,137.11479
+1869,5,Eastern line_,____,34.969228,137.113537
+1870,5,Eastern line_,____,34.969927,137.117614
+1871,5,Eastern line_,__,34.975553,137.119984
+1872,5,Eastern line_,____,34.976742,137.116727
+1873,5,Eastern line_,_____,34.979081,137.114176
+1874,5,Eastern line_,____,34.980968,137.111907
+1875,5,Eastern line_,____,34.983223,137.108951
+1876,5,Eastern line_,_______,34.985328,137.105955
+1877,5,Eastern line_,__,34.987115,137.102273
+1878,5,Eastern line_,_____,34.985755,137.099022
+1879,5,Eastern line_,________,34.985755,137.099022
+1881,5,Eastern line_,_____,34.985755,137.099022
+1882,5,Eastern line_,__,34.987115,137.102273
+1883,5,Eastern line_,_______,34.985328,137.105955
+1884,5,Eastern line_,____,34.983223,137.108951
+1885,5,Eastern line_,____,34.980968,137.111907
+1886,5,Eastern line_,_____,34.979081,137.114176
+1887,5,Eastern line_,____,34.976742,137.116727
+1888,5,Eastern line_,__,34.975553,137.119984
+1889,5,Eastern line_,____,34.969927,137.117614
+1890,5,Eastern line_,____,34.969228,137.113537
+1891,5,Eastern line_,___,34.964528,137.11479
+1892,5,Eastern line_,_______,34.967236,137.106852
+1893,5,Eastern line_,___,34.96615,137.099176
+1894,5,Eastern line_,________,34.970481,137.092525
+1895,5,Eastern line_,_____,34.966041,137.093539
+1896,5,Eastern line_,__,34.961671,137.094918
+1897,5,Eastern line_,___,34.957819,137.096549
+1898,5,Eastern line_,_____,34.95563,137.093866
+1899,5,Eastern line_,JR___,34.959266,137.087528
+1901,5,Eastern line_,_____,34.95563,137.093866
+1902,5,Eastern line_,___,34.957819,137.096549
+1903,5,Eastern line_,__,34.961671,137.094918
+1904,5,Eastern line_,_____,34.966041,137.093539
+1905,5,Eastern line_,________,34.970481,137.092525
+1906,5,Eastern line_,___,34.96615,137.099176
+1907,5,Eastern line_,_______,34.967236,137.106852
+1908,5,Eastern line_,___,34.964528,137.11479
+1909,5,Eastern line_,____,34.969228,137.113537
+1910,5,Eastern line_,____,34.969927,137.117614
+1911,5,Eastern line_,__,34.975553,137.119984
+1912,5,Eastern line_,____,34.976742,137.116727
+1913,5,Eastern line_,_____,34.979081,137.114176
+1914,5,Eastern line_,____,34.980968,137.111907
+1915,5,Eastern line_,____,34.983223,137.108951
+1916,5,Eastern line_,_______,34.985328,137.105955
+1917,5,Eastern line_,__,34.987115,137.102273
+1918,5,Eastern line_,_____,34.985755,137.099022
+1919,5,Eastern line_,________,34.985755,137.099022
+1921,5,Eastern line_,_____,34.985755,137.099022
+1922,5,Eastern line_,__,34.987115,137.102273
+1923,5,Eastern line_,_______,34.985328,137.105955
+1924,5,Eastern line_,____,34.983223,137.108951
+1925,5,Eastern line_,____,34.980968,137.111907
+1926,5,Eastern line_,_____,34.979081,137.114176
+1927,5,Eastern line_,____,34.976742,137.116727
+1928,5,Eastern line_,__,34.975553,137.119984
+1929,5,Eastern line_,____,34.969927,137.117614
+1930,5,Eastern line_,____,34.969228,137.113537
+1931,5,Eastern line_,___,34.964528,137.11479
+1932,5,Eastern line_,_______,34.967236,137.106852
+1933,5,Eastern line_,___,34.96615,137.099176
+1934,5,Eastern line_,________,34.970481,137.092525
+1935,5,Eastern line_,_____,34.966041,137.093539
+1936,5,Eastern line_,__,34.961671,137.094918
+1937,5,Eastern line_,___,34.957819,137.096549
+1938,5,Eastern line_,_____,34.95563,137.093866
+1939,5,Eastern line_,JR___,34.959266,137.087528
+1941,5,Eastern line_,_____,34.95563,137.093866
+1942,5,Eastern line_,___,34.957819,137.096549
+1943,5,Eastern line_,__,34.961671,137.094918
+1944,5,Eastern line_,_____,34.966041,137.093539
+1945,5,Eastern line_,________,34.970481,137.092525
+1946,5,Eastern line_,___,34.96615,137.099176
+1947,5,Eastern line_,_______,34.967236,137.106852
+1948,5,Eastern line_,___,34.964528,137.11479
+1949,5,Eastern line_,____,34.969228,137.113537
+1950,5,Eastern line_,____,34.969927,137.117614
+1951,5,Eastern line_,__,34.975553,137.119984
+1952,5,Eastern line_,____,34.976742,137.116727
+1953,5,Eastern line_,_____,34.979081,137.114176
+1954,5,Eastern line_,____,34.980968,137.111907
+1955,5,Eastern line_,____,34.983223,137.108951
+1956,5,Eastern line_,_______,34.985328,137.105955
+1957,5,Eastern line_,__,34.987115,137.102273
+1958,5,Eastern line_,_____,34.985755,137.099022
+1959,5,Eastern line_,________,34.985755,137.099022
+1960,6,Western line,______,34.986559,137.083088
+1961,6,Western line,___________,34.984854,137.081743
+1962,6,Western line,_____,34.980968,137.078754
+1963,6,Western line,_____,34.978138,137.076013
+1964,6,Western line,____,34.980017,137.072784
+1965,6,Western line,________,34.9821,137.068179
+1966,6,Western line,_____,34.976837,137.064512
+1967,6,Western line,_______,34.974155,137.062318
+1968,6,Western line,___,34.974797,137.060714
+1969,6,Western line,____,34.976925,137.055494
+1970,6,Western line,__,34.97758,137.051257
+1971,6,Western line,____,34.975549,137.051166
+1972,6,Western line,______,34.977628,137.043666
+1973,6,Western line,_____,34.978881,137.046096
+1974,6,Western line,_____,34.976995,137.04909
+1975,6,Western line,__,34.974547,137.047609
+1976,6,Western line,_______,34.971795,137.051268
+1977,6,Western line,______,34.971314,137.055149
+1978,6,Western line,________,34.96961,137.061229
+1979,6,Western line,______,34.966304,137.066256
+1980,6,Western line,_____,34.96419,137.072827
+1981,6,Western line,__,34.961864,137.079199
+1982,6,Western line,_____,34.959851,137.083542
+1983,6,Western line,_____,34.959266,137.087528
+1984,6,Western line,_____,34.959851,137.083542
+1985,6,Western line,_____,34.964471,137.084334
+1986,6,Western line,_____,34.967474,137.078567
+1987,6,Western line,___,34.971593,137.074324
+1988,6,Western line,____,34.976391,137.070236
+1989,6,Western line,_____,34.982362,137.072886
+1990,6,Western line,____,34.98428,137.074715
+1991,6,Western line,__,34.987785,137.076352
+1992,6,Western line,_____,34.986177,137.080005
+1993,6,Western line,______,34.987034,137.084655
+1995,6,Western line,___________,34.984854,137.081743
+1996,6,Western line,_____,34.980968,137.078754
+1997,6,Western line,_____,34.978138,137.076013
+1998,6,Western line,____,34.980017,137.072784
+1999,6,Western line,________,34.9821,137.068179
+2000,6,Western line,_____,34.976837,137.064512
+2001,6,Western line,_______,34.974155,137.062318
+2002,6,Western line,___,34.974797,137.060714
+2003,6,Western line,____,34.976925,137.055494
+2004,6,Western line,__,34.97758,137.051257
+2005,6,Western line,____,34.975549,137.051166
+2006,6,Western line,______,34.977628,137.043666
+2007,6,Western line,_____,34.978881,137.046096
+2008,6,Western line,_____,34.976995,137.04909
+2009,6,Western line,__,34.974547,137.047609
+2010,6,Western line,_______,34.971795,137.051268
+2011,6,Western line,______,34.971314,137.055149
+2012,6,Western line,________,34.96961,137.061229
+2013,6,Western line,______,34.966304,137.066256
+2014,6,Western line,_____,34.96419,137.072827
+2015,6,Western line,__,34.961864,137.079199
+2016,6,Western line,_____,34.959851,137.083542
+2017,6,Western line,_____,34.959266,137.087528
+2018,6,Western line,_____,34.959851,137.083542
+2019,6,Western line,_____,34.964471,137.084334
+2020,6,Western line,_____,34.967474,137.078567
+2021,6,Western line,___,34.971593,137.074324
+2022,6,Western line,____,34.976391,137.070236
+2023,6,Western line,_____,34.982362,137.072886
+2024,6,Western line,____,34.98428,137.074715
+2025,6,Western line,__,34.987785,137.076352
+2026,6,Western line,_____,34.986177,137.080005
+2027,6,Western line,______,34.987034,137.084655
+2029,6,Western line,___________,34.984854,137.081743
+2030,6,Western line,_____,34.980968,137.078754
+2031,6,Western line,_____,34.978138,137.076013
+2032,6,Western line,____,34.980017,137.072784
+2033,6,Western line,________,34.9821,137.068179
+2034,6,Western line,_____,34.976837,137.064512
+2035,6,Western line,_______,34.974155,137.062318
+2036,6,Western line,___,34.974797,137.060714
+2037,6,Western line,____,34.976925,137.055494
+2038,6,Western line,__,34.97758,137.051257
+2039,6,Western line,____,34.975549,137.051166
+2040,6,Western line,______,34.977628,137.043666
+2041,6,Western line,_____,34.978881,137.046096
+2042,6,Western line,_____,34.976995,137.04909
+2043,6,Western line,__,34.974547,137.047609
+2044,6,Western line,_______,34.971795,137.051268
+2045,6,Western line,______,34.971314,137.055149
+2046,6,Western line,________,34.96961,137.061229
+2047,6,Western line,______,34.966304,137.066256
+2048,6,Western line,_____,34.96419,137.072827
+2049,6,Western line,__,34.961864,137.079199
+2050,6,Western line,_____,34.959851,137.083542
+2051,6,Western line,_____,34.959266,137.087528
+2052,6,Western line,_____,34.959851,137.083542
+2053,6,Western line,_____,34.964471,137.084334
+2054,6,Western line,_____,34.967474,137.078567
+2055,6,Western line,___,34.971593,137.074324
+2056,6,Western line,____,34.976391,137.070236
+2057,6,Western line,_____,34.982362,137.072886
+2058,6,Western line,____,34.98428,137.074715
+2059,6,Western line,__,34.987785,137.076352
+2060,6,Western line,_____,34.986177,137.080005
+2061,6,Western line,______,34.987034,137.084655
+2063,6,Western line,___________,34.984854,137.081743
+2064,6,Western line,_____,34.980968,137.078754
+2065,6,Western line,_____,34.978138,137.076013
+2066,6,Western line,____,34.980017,137.072784
+2067,6,Western line,________,34.9821,137.068179
+2068,6,Western line,_____,34.976837,137.064512
+2069,6,Western line,_______,34.974155,137.062318
+2070,6,Western line,___,34.974797,137.060714
+2071,6,Western line,____,34.976925,137.055494
+2072,6,Western line,__,34.97758,137.051257
+2073,6,Western line,____,34.975549,137.051166
+2074,6,Western line,______,34.977628,137.043666
+2075,6,Western line,_____,34.978881,137.046096
+2076,6,Western line,_____,34.976995,137.04909
+2077,6,Western line,__,34.974547,137.047609
+2078,6,Western line,_______,34.971795,137.051268
+2079,6,Western line,______,34.971314,137.055149
+2080,6,Western line,________,34.96961,137.061229
+2081,6,Western line,______,34.966304,137.066256
+2082,6,Western line,_____,34.96419,137.072827
+2083,6,Western line,__,34.961864,137.079199
+2084,6,Western line,_____,34.959851,137.083542
+2085,6,Western line,_____,34.959266,137.087528
+2086,6,Western line,_____,34.959851,137.083542
+2087,6,Western line,_____,34.964471,137.084334
+2088,6,Western line,_____,34.967474,137.078567
+2089,6,Western line,___,34.971593,137.074324
+2090,6,Western line,____,34.976391,137.070236
+2091,6,Western line,_____,34.982362,137.072886
+2092,6,Western line,____,34.98428,137.074715
+2093,6,Western line,__,34.987785,137.076352
+2094,6,Western line,_____,34.986177,137.080005
+2095,6,Western line,______,34.987034,137.084655
+2097,6,Western line,___________,34.984854,137.081743
+2098,6,Western line,_____,34.980968,137.078754
+2099,6,Western line,_____,34.978138,137.076013
+2100,6,Western line,____,34.980017,137.072784
+2101,6,Western line,________,34.9821,137.068179
+2102,6,Western line,_____,34.976837,137.064512
+2103,6,Western line,_______,34.974155,137.062318
+2104,6,Western line,___,34.974797,137.060714
+2105,6,Western line,____,34.976925,137.055494
+2106,6,Western line,__,34.97758,137.051257
+2107,6,Western line,____,34.975549,137.051166
+2108,6,Western line,______,34.977628,137.043666
+2109,6,Western line,_____,34.978881,137.046096
+2110,6,Western line,_____,34.976995,137.04909
+2111,6,Western line,__,34.974547,137.047609
+2112,6,Western line,_______,34.971795,137.051268
+2113,6,Western line,______,34.971314,137.055149
+2114,6,Western line,________,34.96961,137.061229
+2115,6,Western line,______,34.966304,137.066256
+2116,6,Western line,_____,34.96419,137.072827
+2117,6,Western line,__,34.961864,137.079199
+2118,6,Western line,_____,34.959851,137.083542
+2119,6,Western line,_____,34.959266,137.087528
+2120,6,Western line,_____,34.959851,137.083542
+2121,6,Western line,_____,34.964471,137.084334
+2122,6,Western line,_____,34.967474,137.078567
+2123,6,Western line,___,34.971593,137.074324
+2124,6,Western line,____,34.976391,137.070236
+2125,6,Western line,_____,34.982362,137.072886
+2126,6,Western line,____,34.98428,137.074715
+2127,6,Western line,__,34.987785,137.076352
+2128,6,Western line,_____,34.986177,137.080005
+2129,6,Western line,______,34.987034,137.084655
+2131,6,Western line,___________,34.984854,137.081743
+2132,6,Western line,_____,34.980968,137.078754
+2133,6,Western line,_____,34.978138,137.076013
+2134,6,Western line,____,34.980017,137.072784
+2135,6,Western line,________,34.9821,137.068179
+2136,6,Western line,_____,34.976837,137.064512
+2137,6,Western line,_______,34.974155,137.062318
+2138,6,Western line,___,34.974797,137.060714
+2139,6,Western line,____,34.976925,137.055494
+2140,6,Western line,__,34.97758,137.051257
+2141,6,Western line,____,34.975549,137.051166
+2142,6,Western line,______,34.977628,137.043666
+2143,6,Western line,_____,34.978881,137.046096
+2144,6,Western line,_____,34.976995,137.04909
+2145,6,Western line,__,34.974547,137.047609
+2146,6,Western line,_______,34.971795,137.051268
+2147,6,Western line,______,34.971314,137.055149
+2148,6,Western line,________,34.96961,137.061229
+2149,6,Western line,______,34.966304,137.066256
+2150,6,Western line,_____,34.96419,137.072827
+2151,6,Western line,__,34.961864,137.079199
+2152,6,Western line,_____,34.959851,137.083542
+2153,6,Western line,_____,34.959266,137.087528
+2154,6,Western line,_____,34.959851,137.083542
+2155,6,Western line,_____,34.964471,137.084334
+2156,6,Western line,_____,34.967474,137.078567
+2157,6,Western line,___,34.971593,137.074324
+2158,6,Western line,____,34.976391,137.070236
+2159,6,Western line,_____,34.982362,137.072886
+2160,6,Western line,____,34.98428,137.074715
+2161,6,Western line,__,34.987785,137.076352
+2162,6,Western line,_____,34.986177,137.080005
+2163,6,Western line,______,34.987034,137.084655
+2165,6,Western line,___________,34.984854,137.081743
+2166,6,Western line,_____,34.980968,137.078754
+2167,6,Western line,_____,34.978138,137.076013
+2168,6,Western line,____,34.980017,137.072784
+2169,6,Western line,________,34.9821,137.068179
+2170,6,Western line,_____,34.976837,137.064512
+2171,6,Western line,_______,34.974155,137.062318
+2172,6,Western line,___,34.974797,137.060714
+2173,6,Western line,____,34.976925,137.055494
+2174,6,Western line,__,34.97758,137.051257
+2175,6,Western line,____,34.975549,137.051166
+2176,6,Western line,______,34.977628,137.043666
+2177,6,Western line,_____,34.978881,137.046096
+2178,6,Western line,_____,34.976995,137.04909
+2179,6,Western line,__,34.974547,137.047609
+2180,6,Western line,_______,34.971795,137.051268
+2181,6,Western line,______,34.971314,137.055149
+2182,6,Western line,________,34.96961,137.061229
+2183,6,Western line,______,34.966304,137.066256
+2184,6,Western line,_____,34.96419,137.072827
+2185,6,Western line,__,34.961864,137.079199
+2186,6,Western line,_____,34.959851,137.083542
+2187,6,Western line,_____,34.959266,137.087528
+2188,6,Western line,_____,34.959851,137.083542
+2189,6,Western line,_____,34.964471,137.084334
+2190,6,Western line,_____,34.967474,137.078567
+2191,6,Western line,___,34.971593,137.074324
+2192,6,Western line,____,34.976391,137.070236
+2193,6,Western line,_____,34.982362,137.072886
+2194,6,Western line,____,34.98428,137.074715
+2195,6,Western line,__,34.987785,137.076352
+2196,6,Western line,_____,34.986177,137.080005
+2197,6,Western line,______,34.987034,137.084655
+2199,7,Sakuno line,_____,34.986177,137.080005
+2200,7,Sakuno line,__,34.987785,137.076352
+2201,7,Sakuno line,____,34.98428,137.074715
+2202,7,Sakuno line,_____,34.982362,137.072886
+2203,7,Sakuno line,____,34.976391,137.070236
+2204,7,Sakuno line,___,34.971593,137.074324
+2205,7,Sakuno line,_____,34.967474,137.078567
+2206,7,Sakuno line,_____,34.963561,137.085047
+2207,7,Sakuno line,_____,34.959851,137.083542
+2208,7,Sakuno line,_____,34.959266,137.087528
+2209,7,Sakuno line,_____,34.959851,137.083542
+2210,7,Sakuno line,__,34.961864,137.079199
+2211,7,Sakuno line,_____,34.96419,137.072827
+2212,7,Sakuno line,______,34.966304,137.066256
+2213,7,Sakuno line,________,34.96961,137.061229
+2214,7,Sakuno line,______,34.971314,137.055149
+2215,7,Sakuno line,_______,34.971795,137.051268
+2216,7,Sakuno line,__,34.974547,137.047609
+2217,7,Sakuno line,_____,34.976995,137.04909
+2218,7,Sakuno line,_____,34.978881,137.046096
+2219,7,Sakuno line,______,34.977628,137.043666
+2220,7,Sakuno line,____,34.975549,137.051166
+2221,7,Sakuno line,__,34.97758,137.051257
+2222,7,Sakuno line,____,34.976925,137.055494
+2223,7,Sakuno line,___,34.972661,137.063712
+2224,7,Sakuno line,_______,34.974674,137.06354
+2225,7,Sakuno line,_____,34.976837,137.064512
+2226,7,Sakuno line,________,34.9821,137.068179
+2227,7,Sakuno line,____,34.980017,137.072784
+2228,7,Sakuno line,_____,34.978138,137.076013
+2229,7,Sakuno line,_____,34.980968,137.078754
+2230,7,Sakuno line,___________,34.984854,137.081743
+2231,7,Sakuno line,______,34.987034,137.084655
+2233,7,Sakuno line,_____,34.986177,137.080005
+2234,7,Sakuno line,__,34.987785,137.076352
+2235,7,Sakuno line,____,34.98428,137.074715
+2236,7,Sakuno line,_____,34.982362,137.072886
+2237,7,Sakuno line,____,34.976391,137.070236
+2238,7,Sakuno line,___,34.971593,137.074324
+2239,7,Sakuno line,_____,34.967474,137.078567
+2240,7,Sakuno line,_____,34.963561,137.085047
+2241,7,Sakuno line,_____,34.959851,137.083542
+2242,7,Sakuno line,_____,34.959266,137.087528
+2243,7,Sakuno line,_____,34.959851,137.083542
+2244,7,Sakuno line,__,34.961864,137.079199
+2245,7,Sakuno line,_____,34.96419,137.072827
+2246,7,Sakuno line,______,34.966304,137.066256
+2247,7,Sakuno line,________,34.96961,137.061229
+2248,7,Sakuno line,______,34.971314,137.055149
+2249,7,Sakuno line,_______,34.971795,137.051268
+2250,7,Sakuno line,__,34.974547,137.047609
+2251,7,Sakuno line,_____,34.976995,137.04909
+2252,7,Sakuno line,_____,34.978881,137.046096
+2253,7,Sakuno line,______,34.977628,137.043666
+2254,7,Sakuno line,____,34.975549,137.051166
+2255,7,Sakuno line,__,34.97758,137.051257
+2256,7,Sakuno line,____,34.976925,137.055494
+2257,7,Sakuno line,___,34.972661,137.063712
+2258,7,Sakuno line,_______,34.974674,137.06354
+2259,7,Sakuno line,_____,34.976837,137.064512
+2260,7,Sakuno line,________,34.9821,137.068179
+2261,7,Sakuno line,____,34.980017,137.072784
+2262,7,Sakuno line,_____,34.978138,137.076013
+2263,7,Sakuno line,_____,34.980968,137.078754
+2264,7,Sakuno line,___________,34.984854,137.081743
+2265,7,Sakuno line,______,34.987034,137.084655
+2267,7,Sakuno line,_____,34.986177,137.080005
+2268,7,Sakuno line,__,34.987785,137.076352
+2269,7,Sakuno line,____,34.98428,137.074715
+2270,7,Sakuno line,_____,34.982362,137.072886
+2271,7,Sakuno line,____,34.976391,137.070236
+2272,7,Sakuno line,___,34.971593,137.074324
+2273,7,Sakuno line,_____,34.967474,137.078567
+2274,7,Sakuno line,_____,34.963561,137.085047
+2275,7,Sakuno line,_____,34.959851,137.083542
+2276,7,Sakuno line,_____,34.959266,137.087528
+2277,7,Sakuno line,_____,34.959851,137.083542
+2278,7,Sakuno line,__,34.961864,137.079199
+2279,7,Sakuno line,_____,34.96419,137.072827
+2280,7,Sakuno line,______,34.966304,137.066256
+2281,7,Sakuno line,________,34.96961,137.061229
+2282,7,Sakuno line,______,34.971314,137.055149
+2283,7,Sakuno line,_______,34.971795,137.051268
+2284,7,Sakuno line,__,34.974547,137.047609
+2285,7,Sakuno line,_____,34.976995,137.04909
+2286,7,Sakuno line,_____,34.978881,137.046096
+2287,7,Sakuno line,______,34.977628,137.043666
+2288,7,Sakuno line,____,34.975549,137.051166
+2289,7,Sakuno line,__,34.97758,137.051257
+2290,7,Sakuno line,____,34.976925,137.055494
+2291,7,Sakuno line,___,34.972661,137.063712
+2292,7,Sakuno line,_______,34.974674,137.06354
+2293,7,Sakuno line,_____,34.976837,137.064512
+2294,7,Sakuno line,________,34.9821,137.068179
+2295,7,Sakuno line,____,34.980017,137.072784
+2296,7,Sakuno line,_____,34.978138,137.076013
+2297,7,Sakuno line,_____,34.980968,137.078754
+2298,7,Sakuno line,___________,34.984854,137.081743
+2299,7,Sakuno line,______,34.987034,137.084655
+2301,7,Sakuno line,_____,34.986177,137.080005
+2302,7,Sakuno line,__,34.987785,137.076352
+2303,7,Sakuno line,____,34.98428,137.074715
+2304,7,Sakuno line,_____,34.982362,137.072886
+2305,7,Sakuno line,____,34.976391,137.070236
+2306,7,Sakuno line,___,34.971593,137.074324
+2307,7,Sakuno line,_____,34.967474,137.078567
+2308,7,Sakuno line,_____,34.963561,137.085047
+2309,7,Sakuno line,_____,34.959851,137.083542
+2310,7,Sakuno line,_____,34.959266,137.087528
+2311,7,Sakuno line,_____,34.959851,137.083542
+2312,7,Sakuno line,__,34.961864,137.079199
+2313,7,Sakuno line,_____,34.96419,137.072827
+2314,7,Sakuno line,______,34.966304,137.066256
+2315,7,Sakuno line,________,34.96961,137.061229
+2316,7,Sakuno line,______,34.971314,137.055149
+2317,7,Sakuno line,_______,34.971795,137.051268
+2318,7,Sakuno line,__,34.974547,137.047609
+2319,7,Sakuno line,_____,34.976995,137.04909
+2320,7,Sakuno line,_____,34.978881,137.046096
+2321,7,Sakuno line,______,34.977628,137.043666
+2322,7,Sakuno line,____,34.975549,137.051166
+2323,7,Sakuno line,__,34.97758,137.051257
+2324,7,Sakuno line,____,34.976925,137.055494
+2325,7,Sakuno line,___,34.972661,137.063712
+2326,7,Sakuno line,_______,34.974674,137.06354
+2327,7,Sakuno line,_____,34.976837,137.064512
+2328,7,Sakuno line,________,34.9821,137.068179
+2329,7,Sakuno line,____,34.980017,137.072784
+2330,7,Sakuno line,_____,34.978138,137.076013
+2331,7,Sakuno line,_____,34.980968,137.078754
+2332,7,Sakuno line,___________,34.984854,137.081743
+2333,7,Sakuno line,______,34.987034,137.084655
+2335,7,Sakuno line,_____,34.986177,137.080005
+2336,7,Sakuno line,__,34.987785,137.076352
+2337,7,Sakuno line,____,34.98428,137.074715
+2338,7,Sakuno line,_____,34.982362,137.072886
+2339,7,Sakuno line,____,34.976391,137.070236
+2340,7,Sakuno line,___,34.971593,137.074324
+2341,7,Sakuno line,_____,34.967474,137.078567
+2342,7,Sakuno line,_____,34.963561,137.085047
+2343,7,Sakuno line,_____,34.959851,137.083542
+2344,7,Sakuno line,_____,34.959266,137.087528
+2345,7,Sakuno line,_____,34.959851,137.083542
+2346,7,Sakuno line,__,34.961864,137.079199
+2347,7,Sakuno line,_____,34.96419,137.072827
+2348,7,Sakuno line,______,34.966304,137.066256
+2349,7,Sakuno line,________,34.96961,137.061229
+2350,7,Sakuno line,______,34.971314,137.055149
+2351,7,Sakuno line,_______,34.971795,137.051268
+2352,7,Sakuno line,__,34.974547,137.047609
+2353,7,Sakuno line,_____,34.976995,137.04909
+2354,7,Sakuno line,_____,34.978881,137.046096
+2355,7,Sakuno line,______,34.977628,137.043666
+2356,7,Sakuno line,____,34.975549,137.051166
+2357,7,Sakuno line,__,34.97758,137.051257
+2358,7,Sakuno line,____,34.976925,137.055494
+2359,7,Sakuno line,___,34.972661,137.063712
+2360,7,Sakuno line,_______,34.974674,137.06354
+2361,7,Sakuno line,_____,34.976837,137.064512
+2362,7,Sakuno line,________,34.9821,137.068179
+2363,7,Sakuno line,____,34.980017,137.072784
+2364,7,Sakuno line,_____,34.978138,137.076013
+2365,7,Sakuno line,_____,34.980968,137.078754
+2366,7,Sakuno line,___________,34.984854,137.081743
+2367,7,Sakuno line,______,34.987034,137.084655
+2369,7,Sakuno line,_____,34.986177,137.080005
+2370,7,Sakuno line,__,34.987785,137.076352
+2371,7,Sakuno line,____,34.98428,137.074715
+2372,7,Sakuno line,_____,34.982362,137.072886
+2373,7,Sakuno line,____,34.976391,137.070236
+2374,7,Sakuno line,___,34.971593,137.074324
+2375,7,Sakuno line,_____,34.967474,137.078567
+2376,7,Sakuno line,_____,34.963561,137.085047
+2377,7,Sakuno line,_____,34.959851,137.083542
+2378,7,Sakuno line,_____,34.959266,137.087528
+2379,7,Sakuno line,_____,34.959851,137.083542
+2380,7,Sakuno line,__,34.961864,137.079199
+2381,7,Sakuno line,_____,34.96419,137.072827
+2382,7,Sakuno line,______,34.966304,137.066256
+2383,7,Sakuno line,________,34.96961,137.061229
+2384,7,Sakuno line,______,34.971314,137.055149
+2385,7,Sakuno line,_______,34.971795,137.051268
+2386,7,Sakuno line,__,34.974547,137.047609
+2387,7,Sakuno line,_____,34.976995,137.04909
+2388,7,Sakuno line,_____,34.978881,137.046096
+2389,7,Sakuno line,______,34.977628,137.043666
+2390,7,Sakuno line,____,34.975549,137.051166
+2391,7,Sakuno line,__,34.97758,137.051257
+2392,7,Sakuno line,____,34.976925,137.055494
+2393,7,Sakuno line,___,34.972661,137.063712
+2394,7,Sakuno line,_______,34.974674,137.06354
+2395,7,Sakuno line,_____,34.976837,137.064512
+2396,7,Sakuno line,________,34.9821,137.068179
+2397,7,Sakuno line,____,34.980017,137.072784
+2398,7,Sakuno line,_____,34.978138,137.076013
+2399,7,Sakuno line,_____,34.980968,137.078754
+2400,7,Sakuno line,___________,34.984854,137.081743
+2401,7,Sakuno line,______,34.987034,137.084655
+2403,7,Sakuno line,_____,34.986177,137.080005
+2404,7,Sakuno line,__,34.987785,137.076352
+2405,7,Sakuno line,____,34.98428,137.074715
+2406,7,Sakuno line,_____,34.982362,137.072886
+2407,7,Sakuno line,____,34.976391,137.070236
+2408,7,Sakuno line,___,34.971593,137.074324
+2409,7,Sakuno line,_____,34.967474,137.078567
+2410,7,Sakuno line,_____,34.963561,137.085047
+2411,7,Sakuno line,_____,34.959851,137.083542
+2412,7,Sakuno line,_____,34.959266,137.087528
+2413,7,Sakuno line,_____,34.959851,137.083542
+2414,7,Sakuno line,__,34.961864,137.079199
+2415,7,Sakuno line,_____,34.96419,137.072827
+2416,7,Sakuno line,______,34.966304,137.066256
+2417,7,Sakuno line,________,34.96961,137.061229
+2418,7,Sakuno line,______,34.971314,137.055149
+2419,7,Sakuno line,_______,34.971795,137.051268
+2420,7,Sakuno line,__,34.974547,137.047609
+2421,7,Sakuno line,_____,34.976995,137.04909
+2422,7,Sakuno line,_____,34.978881,137.046096
+2423,7,Sakuno line,______,34.977628,137.043666
+2424,7,Sakuno line,____,34.975549,137.051166
+2425,7,Sakuno line,__,34.97758,137.051257
+2426,7,Sakuno line,____,34.976925,137.055494
+2427,7,Sakuno line,___,34.972661,137.063712
+2428,7,Sakuno line,_______,34.974674,137.06354
+2429,7,Sakuno line,_____,34.976837,137.064512
+2430,7,Sakuno line,________,34.9821,137.068179
+2431,7,Sakuno line,____,34.980017,137.072784
+2432,7,Sakuno line,_____,34.978138,137.076013
+2433,7,Sakuno line,_____,34.980968,137.078754
+2434,7,Sakuno line,___________,34.984854,137.081743
+2435,7,Sakuno line,______,34.987034,137.084655
+2436,8,Northern line,_________,34.985548,137.096875
+2437,8,Northern line,______,34.986047,137.095564
+2438,8,Northern line,____,34.987814,137.093488
+2439,8,Northern line,___,34.990923,137.094229
+2440,8,Northern line,__,34.993821,137.094966
+2441,8,Northern line,____,34.99588,137.098598
+2442,8,Northern line,_____,34.996377,137.094418
+2443,8,Northern line,__,34.994907,137.092509
+2444,8,Northern line,_____,34.992158,137.090621
+2445,8,Northern line,__,34.991134,137.088464
+2446,8,Northern line,_____,34.989657,137.086523
+2447,8,Northern line,______,34.98757,137.084991
+2448,8,Northern line,_____,34.989657,137.086523
+2449,8,Northern line,___,34.994318,137.081938
+2450,8,Northern line,___,34.99704,137.082611
+2451,8,Northern line,______,35.000525,137.086109
+2452,8,Northern line,____,34.997069,137.087842
+2453,8,Northern line,_____,34.994162,137.086152
+2454,8,Northern line,_____,34.991569,137.084613
+2455,8,Northern line,______,34.988963,137.084444
+2456,8,Northern line,_____,34.986177,137.080005
+2458,8,Northern line,_____,34.991569,137.084613
+2459,8,Northern line,___,34.994318,137.081938
+2460,8,Northern line,______,35.000525,137.086109
+2461,8,Northern line,___,34.99704,137.082611
+2462,8,Northern line,____,34.997069,137.087842
+2463,8,Northern line,_____,34.994162,137.086152
+2464,8,Northern line,__,34.991134,137.088464
+2465,8,Northern line,_____,34.992158,137.090621
+2466,8,Northern line,__,34.994907,137.092509
+2467,8,Northern line,_____,34.996377,137.094418
+2468,8,Northern line,____,34.99588,137.098598
+2469,8,Northern line,__,34.993821,137.094966
+2470,8,Northern line,___,34.990923,137.094229
+2471,8,Northern line,____,34.987814,137.093488
+2472,8,Northern line,______,34.986047,137.095564
+2473,8,Northern line,_________,34.984513,137.097745
+2474,8,Northern line,______,34.986047,137.095564
+2475,8,Northern line,______,34.988963,137.084444
+2476,8,Northern line,_____,34.986177,137.080005
+2478,8,Northern line,_____,34.991569,137.084613
+2479,8,Northern line,___,34.994318,137.081938
+2480,8,Northern line,______,35.000525,137.086109
+2481,8,Northern line,___,34.99704,137.082611
+2482,8,Northern line,____,34.997069,137.087842
+2483,8,Northern line,_____,34.994162,137.086152
+2484,8,Northern line,_____,34.989657,137.086523
+2485,8,Northern line,______,34.98757,137.084991
+2486,8,Northern line,_____,34.989657,137.086523
+2487,8,Northern line,__,34.991134,137.088464
+2488,8,Northern line,_____,34.992158,137.090621
+2489,8,Northern line,__,34.994907,137.092509
+2490,8,Northern line,_____,34.996377,137.094418
+2491,8,Northern line,____,34.99588,137.098598
+2492,8,Northern line,__,34.993821,137.094966
+2493,8,Northern line,___,34.990923,137.094229
+2494,8,Northern line,____,34.987814,137.093488
+2495,8,Northern line,______,34.986047,137.095564
+2496,8,Northern line,_________,34.984513,137.097745
+2497,8,Northern line,______,34.986047,137.095564
+2498,8,Northern line,______,34.988963,137.084444
+2499,8,Northern line,_____,34.986177,137.080005
+2500,8,Northern line,________,34.984513,137.097745
+2502,8,Northern line,______,34.986047,137.095564
+2503,8,Northern line,____,34.987814,137.093488
+2504,8,Northern line,___,34.990923,137.094229
+2505,8,Northern line,__,34.993821,137.094966
+2506,8,Northern line,____,34.99588,137.098598
+2507,8,Northern line,_____,34.996377,137.094418
+2508,8,Northern line,__,34.994907,137.092509
+2509,8,Northern line,_____,34.992158,137.090621
+2510,8,Northern line,__,34.991134,137.088464
+2511,8,Northern line,_____,34.989657,137.086523
+2512,8,Northern line,______,34.98757,137.084991
+2513,8,Northern line,_____,34.989657,137.086523
+2514,8,Northern line,___,34.994318,137.081938
+2515,8,Northern line,___,34.99704,137.082611
+2516,8,Northern line,______,35.000525,137.086109
+2517,8,Northern line,____,34.997069,137.087842
+2518,8,Northern line,_____,34.994162,137.086152
+2519,8,Northern line,_____,34.991569,137.084613
+2520,8,Northern line,_____,34.986177,137.080005
+2522,8,Northern line,_____,34.991569,137.084613
+2523,8,Northern line,___,34.994318,137.081938
+2524,8,Northern line,______,35.000525,137.086109
+2525,8,Northern line,___,34.99704,137.082611
+2526,8,Northern line,____,34.997069,137.087842
+2527,8,Northern line,_____,34.994162,137.086152
+2528,8,Northern line,_____,34.989657,137.086523
+2529,8,Northern line,______,34.98757,137.084991
+2530,8,Northern line,_____,34.989657,137.086523
+2531,8,Northern line,__,34.991134,137.088464
+2532,8,Northern line,_____,34.992158,137.090621
+2533,8,Northern line,__,34.994907,137.092509
+2534,8,Northern line,_____,34.996377,137.094418
+2535,8,Northern line,____,34.99588,137.098598
+2536,8,Northern line,__,34.993821,137.094966
+2537,8,Northern line,___,34.990923,137.094229
+2538,8,Northern line,____,34.987814,137.093488
+2539,8,Northern line,______,34.986047,137.095564
+2540,8,Northern line,_________,34.984513,137.097745
+2541,8,Northern line,______,34.986047,137.095564
+2542,8,Northern line,______,34.988963,137.084444
+2543,8,Northern line,_____,34.986177,137.080005
+2544,8,Northern line,________,34.984513,137.097745
+2546,8,Northern line,______,34.986047,137.095564
+2547,8,Northern line,____,34.987814,137.093488
+2548,8,Northern line,___,34.990923,137.094229
+2549,8,Northern line,__,34.993821,137.094966
+2550,8,Northern line,____,34.99588,137.098598
+2551,8,Northern line,_____,34.996377,137.094418
+2552,8,Northern line,__,34.994907,137.092509
+2553,8,Northern line,_____,34.992158,137.090621
+2554,8,Northern line,__,34.991134,137.088464
+2555,8,Northern line,_____,34.989657,137.086523
+2556,8,Northern line,______,34.98757,137.084991
+2557,8,Northern line,_____,34.989657,137.086523
+2558,8,Northern line,___,34.994318,137.081938
+2559,8,Northern line,___,34.99704,137.082611
+2560,8,Northern line,______,35.000525,137.086109
+2561,8,Northern line,____,34.997069,137.087842
+2562,8,Northern line,_____,34.994162,137.086152
+2563,8,Northern line,_____,34.991569,137.084613
+2564,8,Northern line,_____,34.986177,137.080005
+2566,8,Northern line,_____,34.991569,137.084613
+2567,8,Northern line,___,34.994318,137.081938
+2568,8,Northern line,______,35.000525,137.086109
+2569,8,Northern line,___,34.99704,137.082611
+2570,8,Northern line,____,34.997069,137.087842
+2571,8,Northern line,_____,34.994162,137.086152
+2572,8,Northern line,_____,34.989657,137.086523
+2573,8,Northern line,______,34.98757,137.084991
+2574,8,Northern line,_____,34.989657,137.086523
+2575,8,Northern line,__,34.991134,137.088464
+2576,8,Northern line,_____,34.992158,137.090621
+2577,8,Northern line,__,34.994907,137.092509
+2578,8,Northern line,_____,34.996377,137.094418
+2579,8,Northern line,____,34.99588,137.098598
+2580,8,Northern line,__,34.993821,137.094966
+2581,8,Northern line,___,34.990923,137.094229
+2582,8,Northern line,____,34.987814,137.093488
+2583,8,Northern line,______,34.986047,137.095564
+2584,8,Northern line,_________,34.984513,137.097745
+2585,8,Northern line,______,34.986047,137.095564
+2586,8,Northern line,______,34.988963,137.084444
+2587,8,Northern line,_____,34.986177,137.080005
+2588,8,Northern line,________,34.984513,137.097745
+2590,8,Northern line,______,34.986047,137.095564
+2591,8,Northern line,____,34.987814,137.093488
+2592,8,Northern line,___,34.990923,137.094229
+2593,8,Northern line,__,34.993821,137.094966
+2594,8,Northern line,____,34.99588,137.098598
+2595,8,Northern line,_____,34.996377,137.094418
+2596,8,Northern line,__,34.994907,137.092509
+2597,8,Northern line,_____,34.992158,137.090621
+2598,8,Northern line,__,34.991134,137.088464
+2599,8,Northern line,_____,34.989657,137.086523
+2600,8,Northern line,______,34.98757,137.084991
+2601,8,Northern line,_____,34.989657,137.086523
+2602,8,Northern line,___,34.994318,137.081938
+2603,8,Northern line,___,34.99704,137.082611
+2604,8,Northern line,______,35.000525,137.086109
+2605,8,Northern line,____,34.997069,137.087842
+2606,8,Northern line,_____,34.994162,137.086152
+2607,8,Northern line,_____,34.991569,137.084613
+2608,8,Northern line,_____,34.986177,137.080005
+2610,8,Northern line,_____,34.991569,137.084613
+2611,8,Northern line,___,34.994318,137.081938
+2612,8,Northern line,______,35.000525,137.086109
+2613,8,Northern line,___,34.99704,137.082611
+2614,8,Northern line,____,34.997069,137.087842
+2615,8,Northern line,_____,34.994162,137.086152
+2616,8,Northern line,_____,34.989657,137.086523
+2617,8,Northern line,______,34.98757,137.084991
+2618,8,Northern line,_____,34.989657,137.086523
+2619,8,Northern line,__,34.991134,137.088464
+2620,8,Northern line,_____,34.992158,137.090621
+2621,8,Northern line,__,34.994907,137.092509
+2622,8,Northern line,_____,34.996377,137.094418
+2623,8,Northern line,____,34.99588,137.098598
+2624,8,Northern line,__,34.993821,137.094966
+2625,8,Northern line,___,34.990923,137.094229
+2626,8,Northern line,____,34.987814,137.093488
+2627,8,Northern line,______,34.986047,137.095564
+2628,8,Northern line,________,34.984513,137.097745
+2630,8,Northern line,______,34.986047,137.095564
+2631,8,Northern line,____,34.987814,137.093488
+2632,8,Northern line,___,34.990923,137.094229
+2633,8,Northern line,__,34.993821,137.094966
+2634,8,Northern line,____,34.99588,137.098598
+2635,8,Northern line,_____,34.996377,137.094418
+2636,8,Northern line,__,34.994907,137.092509
+2637,8,Northern line,_____,34.992158,137.090621
+2638,8,Northern line,__,34.991134,137.088464
+2639,8,Northern line,_____,34.989657,137.086523
+2640,8,Northern line,______,34.98757,137.084991
+2641,8,Northern line,_____,34.989657,137.086523
+2642,8,Northern line,___,34.994318,137.081938
+2643,8,Northern line,___,34.99704,137.082611
+2644,8,Northern line,______,35.000525,137.086109
+2645,8,Northern line,____,34.997069,137.087842
+2646,8,Northern line,_____,34.994162,137.086152
+2647,8,Northern line,_____,34.991569,137.084613
+2648,8,Northern line,_____,34.986177,137.080005
+2650,8,Northern line,_____,34.991569,137.084613
+2651,8,Northern line,___,34.994318,137.081938
+2652,8,Northern line,______,35.000525,137.086109
+2653,8,Northern line,___,34.99704,137.082611
+2654,8,Northern line,____,34.997069,137.087842
+2655,8,Northern line,_____,34.994162,137.086152
+2656,8,Northern line,_____,34.989657,137.086523
+2657,8,Northern line,______,34.98757,137.084991
+2658,8,Northern line,_____,34.989657,137.086523
+2659,8,Northern line,__,34.991134,137.088464
+2660,8,Northern line,_____,34.992158,137.090621
+2661,8,Northern line,__,34.994907,137.092509
+2662,8,Northern line,_____,34.996377,137.094418
+2663,8,Northern line,____,34.99588,137.098598
+2664,8,Northern line,__,34.993821,137.094966
+2665,8,Northern line,___,34.990923,137.094229
+2666,8,Northern line,____,34.987814,137.093488
+2667,8,Northern line,______,34.986047,137.095564
+2668,8,Northern line,________,34.984513,137.097745
+2670,8,Northern line,______,34.986047,137.095564
+2671,8,Northern line,____,34.987814,137.093488
+2672,8,Northern line,___,34.990923,137.094229
+2673,8,Northern line,__,34.993821,137.094966
+2674,8,Northern line,____,34.99588,137.098598
+2675,8,Northern line,_____,34.996377,137.094418
+2676,8,Northern line,__,34.994907,137.092509
+2677,8,Northern line,_____,34.992158,137.090621
+2678,8,Northern line,__,34.991134,137.088464
+2679,8,Northern line,_____,34.989657,137.086523
+2680,8,Northern line,______,34.98757,137.084991
+2681,8,Northern line,_____,34.989657,137.086523
+2682,8,Northern line,___,34.994318,137.081938
+2683,8,Northern line,___,34.99704,137.082611
+2684,8,Northern line,______,35.000525,137.086109
+2685,8,Northern line,____,34.997069,137.087842
+2686,8,Northern line,_____,34.994162,137.086152
+2687,8,Northern line,_____,34.991569,137.084613
+2688,8,Northern line,______,34.98757,137.084991
+2690,8,Northern line,_____,34.991569,137.084613
+2691,8,Northern line,___,34.994318,137.081938
+2692,8,Northern line,______,35.000525,137.086109
+2693,8,Northern line,___,34.99704,137.082611
+2694,8,Northern line,____,34.997069,137.087842
+2695,8,Northern line,_____,34.994162,137.086152
+2696,8,Northern line,_____,34.989657,137.086523
+2697,8,Northern line,______,34.98757,137.084991
+2698,8,Northern line,_____,34.989657,137.086523
+2699,8,Northern line,__,34.991134,137.088464
+2700,8,Northern line,_____,34.992158,137.090621
+2701,8,Northern line,__,34.994907,137.092509
+2702,8,Northern line,_____,34.996377,137.094418
+2703,8,Northern line,____,34.99588,137.098598
+2704,8,Northern line,__,34.993821,137.094966
+2705,8,Northern line,___,34.990923,137.094229
+2706,8,Northern line,____,34.987814,137.093488
+2707,8,Northern line,______,34.986047,137.095564
+2708,8,Northern line,_________,34.984513,137.097745
+2709,9,Sakurai Western line,____,34.904798,137.078781
+2710,9,Sakurai Western line,__,34.909483,137.082644
+2711,9,Sakurai Western line,____,34.910037,137.078159
+2712,9,Sakurai Western line,__,34.911577,137.070901
+2713,9,Sakurai Western line,_______,34.914137,137.064089
+2714,9,Sakurai Western line,___,34.92108,137.056028
+2715,9,Sakurai Western line,_____,34.92991,137.061801
+2716,9,Sakurai Western line,______,34.929114,137.065296
+2717,9,Sakurai Western line,____________,34.923172,137.065708
+2718,9,Sakurai Western line,____,34.920432,137.0669
+2719,9,Sakurai Western line,___,34.917797,137.077419
+2720,9,Sakurai Western line,______,34.916653,137.082446
+2721,9,Sakurai Western line,___,34.917977,137.087976
+2722,9,Sakurai Western line,_______,34.92033,137.086233
+2723,9,Sakurai Western line,______,34.926611,137.08729
+2724,9,Sakurai Western line,____,34.931102,137.088529
+2725,9,Sakurai Western line,____,34.934449,137.088926
+2726,9,Sakurai Western line,____,34.934717,137.086222
+2727,9,Sakurai Western line,______,34.940746,137.078221
+2729,9,Sakurai Western line,____,34.934717,137.086222
+2730,9,Sakurai Western line,____,34.934449,137.088926
+2731,9,Sakurai Western line,____,34.931102,137.088529
+2732,9,Sakurai Western line,______,34.926611,137.08729
+2733,9,Sakurai Western line,_______,34.92033,137.086233
+2734,9,Sakurai Western line,___,34.917977,137.087976
+2735,9,Sakurai Western line,______,34.916653,137.082446
+2736,9,Sakurai Western line,___,34.917797,137.077419
+2737,9,Sakurai Western line,____,34.920432,137.0669
+2738,9,Sakurai Western line,____________,34.923172,137.065708
+2739,9,Sakurai Western line,______,34.929114,137.065296
+2740,9,Sakurai Western line,_____,34.92991,137.061801
+2741,9,Sakurai Western line,___,34.92108,137.056028
+2742,9,Sakurai Western line,_______,34.914137,137.064089
+2743,9,Sakurai Western line,__,34.911577,137.070901
+2744,9,Sakurai Western line,____,34.910037,137.078159
+2745,9,Sakurai Western line,__,34.909483,137.082644
+2746,9,Sakurai Western line,____,34.905924,137.077178
+2748,9,Sakurai Western line,__,34.909483,137.082644
+2749,9,Sakurai Western line,____,34.910037,137.078159
+2750,9,Sakurai Western line,__,34.911577,137.070901
+2751,9,Sakurai Western line,_______,34.914137,137.064089
+2752,9,Sakurai Western line,___,34.92108,137.056028
+2753,9,Sakurai Western line,_____,34.92991,137.061801
+2754,9,Sakurai Western line,______,34.929114,137.065296
+2755,9,Sakurai Western line,____________,34.923172,137.065708
+2756,9,Sakurai Western line,____,34.920432,137.0669
+2757,9,Sakurai Western line,___,34.917797,137.077419
+2758,9,Sakurai Western line,______,34.916653,137.082446
+2759,9,Sakurai Western line,___,34.917977,137.087976
+2760,9,Sakurai Western line,_______,34.92033,137.086233
+2761,9,Sakurai Western line,______,34.926611,137.08729
+2762,9,Sakurai Western line,____,34.931102,137.088529
+2763,9,Sakurai Western line,____,34.934449,137.088926
+2764,9,Sakurai Western line,____,34.934717,137.086222
+2765,9,Sakurai Western line,______,34.940746,137.078221
+2767,9,Sakurai Western line,____,34.934717,137.086222
+2768,9,Sakurai Western line,____,34.934449,137.088926
+2769,9,Sakurai Western line,____,34.931102,137.088529
+2770,9,Sakurai Western line,______,34.926611,137.08729
+2771,9,Sakurai Western line,_______,34.92033,137.086233
+2772,9,Sakurai Western line,___,34.917977,137.087976
+2773,9,Sakurai Western line,______,34.916653,137.082446
+2774,9,Sakurai Western line,___,34.917797,137.077419
+2775,9,Sakurai Western line,____,34.920432,137.0669
+2776,9,Sakurai Western line,____________,34.923172,137.065708
+2777,9,Sakurai Western line,______,34.929114,137.065296
+2778,9,Sakurai Western line,_____,34.92991,137.061801
+2779,9,Sakurai Western line,___,34.92108,137.056028
+2780,9,Sakurai Western line,_______,34.914137,137.064089
+2781,9,Sakurai Western line,__,34.911577,137.070901
+2782,9,Sakurai Western line,____,34.910037,137.078159
+2783,9,Sakurai Western line,__,34.909483,137.082644
+2784,9,Sakurai Western line,____,34.905924,137.077178
+2786,9,Sakurai Western line,__,34.909483,137.082644
+2787,9,Sakurai Western line,____,34.910037,137.078159
+2788,9,Sakurai Western line,__,34.911577,137.070901
+2789,9,Sakurai Western line,_______,34.914137,137.064089
+2790,9,Sakurai Western line,___,34.92108,137.056028
+2791,9,Sakurai Western line,_____,34.92991,137.061801
+2792,9,Sakurai Western line,______,34.929114,137.065296
+2793,9,Sakurai Western line,____________,34.923172,137.065708
+2794,9,Sakurai Western line,____,34.920432,137.0669
+2795,9,Sakurai Western line,___,34.917797,137.077419
+2796,9,Sakurai Western line,______,34.916653,137.082446
+2797,9,Sakurai Western line,___,34.917977,137.087976
+2798,9,Sakurai Western line,_______,34.92033,137.086233
+2799,9,Sakurai Western line,______,34.926611,137.08729
+2800,9,Sakurai Western line,____,34.931102,137.088529
+2801,9,Sakurai Western line,____,34.934449,137.088926
+2802,9,Sakurai Western line,____,34.934717,137.086222
+2803,9,Sakurai Western line,______,34.940746,137.078221
+2805,9,Sakurai Western line,____,34.934717,137.086222
+2806,9,Sakurai Western line,____,34.934449,137.088926
+2807,9,Sakurai Western line,____,34.931102,137.088529
+2808,9,Sakurai Western line,______,34.926611,137.08729
+2809,9,Sakurai Western line,_______,34.92033,137.086233
+2810,9,Sakurai Western line,___,34.917977,137.087976
+2811,9,Sakurai Western line,______,34.916653,137.082446
+2812,9,Sakurai Western line,___,34.917797,137.077419
+2813,9,Sakurai Western line,____,34.920432,137.0669
+2814,9,Sakurai Western line,____________,34.923172,137.065708
+2815,9,Sakurai Western line,______,34.929114,137.065296
+2816,9,Sakurai Western line,_____,34.92991,137.061801
+2817,9,Sakurai Western line,___,34.92108,137.056028
+2818,9,Sakurai Western line,_______,34.914137,137.064089
+2819,9,Sakurai Western line,__,34.911577,137.070901
+2820,9,Sakurai Western line,____,34.910037,137.078159
+2821,9,Sakurai Western line,__,34.909483,137.082644
+2822,9,Sakurai Western line,____,34.905924,137.077178
+2824,9,Sakurai Western line,__,34.909483,137.082644
+2825,9,Sakurai Western line,____,34.910037,137.078159
+2826,9,Sakurai Western line,__,34.911577,137.070901
+2827,9,Sakurai Western line,_______,34.914137,137.064089
+2828,9,Sakurai Western line,___,34.92108,137.056028
+2829,9,Sakurai Western line,_____,34.92991,137.061801
+2830,9,Sakurai Western line,______,34.929114,137.065296
+2831,9,Sakurai Western line,____________,34.923172,137.065708
+2832,9,Sakurai Western line,____,34.920432,137.0669
+2833,9,Sakurai Western line,___,34.917797,137.077419
+2834,9,Sakurai Western line,______,34.916653,137.082446
+2835,9,Sakurai Western line,___,34.917977,137.087976
+2836,9,Sakurai Western line,_______,34.92033,137.086233
+2837,9,Sakurai Western line,______,34.926611,137.08729
+2838,9,Sakurai Western line,____,34.931102,137.088529
+2839,9,Sakurai Western line,____,34.934449,137.088926
+2840,9,Sakurai Western line,____,34.934717,137.086222
+2841,9,Sakurai Western line,______,34.940746,137.078221
+2843,9,Sakurai Western line,____,34.934717,137.086222
+2844,9,Sakurai Western line,____,34.934449,137.088926
+2845,9,Sakurai Western line,____,34.931102,137.088529
+2846,9,Sakurai Western line,______,34.926611,137.08729
+2847,9,Sakurai Western line,_______,34.92033,137.086233
+2848,9,Sakurai Western line,___,34.917977,137.087976
+2849,9,Sakurai Western line,______,34.916653,137.082446
+2850,9,Sakurai Western line,___,34.917797,137.077419
+2851,9,Sakurai Western line,____,34.920432,137.0669
+2852,9,Sakurai Western line,____________,34.923172,137.065708
+2853,9,Sakurai Western line,______,34.929114,137.065296
+2854,9,Sakurai Western line,_____,34.92991,137.061801
+2855,9,Sakurai Western line,___,34.92108,137.056028
+2856,9,Sakurai Western line,_______,34.914137,137.064089
+2857,9,Sakurai Western line,__,34.911577,137.070901
+2858,9,Sakurai Western line,____,34.910037,137.078159
+2859,9,Sakurai Western line,__,34.909483,137.082644
+2860,9,Sakurai Western line,____,34.905924,137.077178
+2862,9,Sakurai Western line,__,34.909483,137.082644
+2863,9,Sakurai Western line,____,34.910037,137.078159
+2864,9,Sakurai Western line,__,34.911577,137.070901
+2865,9,Sakurai Western line,_______,34.914137,137.064089
+2866,9,Sakurai Western line,___,34.92108,137.056028
+2867,9,Sakurai Western line,_____,34.92991,137.061801
+2868,9,Sakurai Western line,______,34.929114,137.065296
+2869,9,Sakurai Western line,____________,34.923172,137.065708
+2870,9,Sakurai Western line,____,34.920432,137.0669
+2871,9,Sakurai Western line,___,34.917797,137.077419
+2872,9,Sakurai Western line,______,34.916653,137.082446
+2873,9,Sakurai Western line,___,34.917977,137.087976
+2874,9,Sakurai Western line,_______,34.92033,137.086233
+2875,9,Sakurai Western line,______,34.926611,137.08729
+2876,9,Sakurai Western line,____,34.931102,137.088529
+2877,9,Sakurai Western line,____,34.934449,137.088926
+2878,9,Sakurai Western line,____,34.934717,137.086222
+2879,9,Sakurai Western line,______,34.940746,137.078221
+2881,9,Sakurai Western line,____,34.934717,137.086222
+2882,9,Sakurai Western line,____,34.934449,137.088926
+2883,9,Sakurai Western line,____,34.931102,137.088529
+2884,9,Sakurai Western line,______,34.926611,137.08729
+2885,9,Sakurai Western line,_______,34.92033,137.086233
+2886,9,Sakurai Western line,___,34.917977,137.087976
+2887,9,Sakurai Western line,______,34.916653,137.082446
+2888,9,Sakurai Western line,___,34.917797,137.077419
+2889,9,Sakurai Western line,____,34.920432,137.0669
+2890,9,Sakurai Western line,____________,34.923172,137.065708
+2891,9,Sakurai Western line,______,34.929114,137.065296
+2892,9,Sakurai Western line,_____,34.92991,137.061801
+2893,9,Sakurai Western line,___,34.92108,137.056028
+2894,9,Sakurai Western line,_______,34.914137,137.064089
+2895,9,Sakurai Western line,__,34.911577,137.070901
+2896,9,Sakurai Western line,____,34.910037,137.078159
+2897,9,Sakurai Western line,__,34.909483,137.082644
+2898,9,Sakurai Western line,____,34.905924,137.077178
+2900,9,Sakurai Western line,__,34.909483,137.082644
+2901,9,Sakurai Western line,____,34.910037,137.078159
+2902,9,Sakurai Western line,__,34.911577,137.070901
+2903,9,Sakurai Western line,_______,34.914137,137.064089
+2904,9,Sakurai Western line,___,34.92108,137.056028
+2905,9,Sakurai Western line,_____,34.92991,137.061801
+2906,9,Sakurai Western line,______,34.929114,137.065296
+2907,9,Sakurai Western line,____________,34.923172,137.065708
+2908,9,Sakurai Western line,____,34.920432,137.0669
+2909,9,Sakurai Western line,___,34.917797,137.077419
+2910,9,Sakurai Western line,______,34.916653,137.082446
+2911,9,Sakurai Western line,___,34.917977,137.087976
+2912,9,Sakurai Western line,_______,34.92033,137.086233
+2913,9,Sakurai Western line,______,34.926611,137.08729
+2914,9,Sakurai Western line,____,34.931102,137.088529
+2915,9,Sakurai Western line,____,34.934449,137.088926
+2916,9,Sakurai Western line,____,34.934717,137.086222
+2917,9,Sakurai Western line,______,34.940746,137.078221
+2919,9,Sakurai Western line,____,34.934717,137.086222
+2920,9,Sakurai Western line,____,34.934449,137.088926
+2921,9,Sakurai Western line,____,34.931102,137.088529
+2922,9,Sakurai Western line,______,34.926611,137.08729
+2923,9,Sakurai Western line,_______,34.92033,137.086233
+2924,9,Sakurai Western line,___,34.917977,137.087976
+2925,9,Sakurai Western line,______,34.916653,137.082446
+2926,9,Sakurai Western line,___,34.917797,137.077419
+2927,9,Sakurai Western line,____,34.920432,137.0669
+2928,9,Sakurai Western line,____________,34.923172,137.065708
+2929,9,Sakurai Western line,______,34.929114,137.065296
+2930,9,Sakurai Western line,_____,34.92991,137.061801
+2931,9,Sakurai Western line,___,34.92108,137.056028
+2932,9,Sakurai Western line,_______,34.914137,137.064089
+2933,9,Sakurai Western line,__,34.911577,137.070901
+2934,9,Sakurai Western line,____,34.910037,137.078159
+2935,9,Sakurai Western line,__,34.909483,137.082644
+2936,9,Sakurai Western line,____,34.905924,137.077178
